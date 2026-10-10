@@ -29,7 +29,7 @@ platforms.
 **Technologies:** Python, Pandas, TensorFlow/Keras,
 NLTK, Streamlit
 
-[View Full Case Study](food-delivery-risk/)
+[View Full Case Study](projects/food-delivery-risk.md)
 
 ## 2. Sentiment Analysis on Generative AI
 
