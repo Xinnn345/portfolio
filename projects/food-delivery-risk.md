@@ -103,7 +103,7 @@ improve in a future version.
 
 ## Project Links
 
-- Dataset: [https://www.kaggle.com/datasets/skamlo/food-delivery-apps-reviews]
-- GitHub Source Code: [https://github.com/XINnn2/FOOD]
-- Live Demo: [https://complaint-system.streamlit.app/]
-- Finding Report: [https://canva.link/78hec0napcbogm4]
+- Dataset: [Food Delivery Apps Reviews on Kaggle](https://www.kaggle.com/datasets/skamlo/food-delivery-apps-reviews)
+- GitHub Source Code: [GitHub Repository](https://github.com/XINnn2/FOOD)
+- Live App Demo: [Food Delivery Complaints Apps](https://complaint-system.streamlit.app/)
+- Finding Report: [Report](https://canva.link/78hec0napcbogm4)
