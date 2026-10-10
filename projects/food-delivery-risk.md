@@ -103,6 +103,7 @@ improve in a future version.
 
 ## Project Links
 
-- Source Code: [Add GitHub repository URL]
-- Live Demo: [Add Streamlit URL, if available]
-- Dataset: [Add a public dataset reference, if permitted]
+- Dataset: [https://www.kaggle.com/datasets/skamlo/food-delivery-apps-reviews]
+- GitHub Source Code: [https://github.com/XINnn2/FOOD]
+- Live Demo: [https://complaint-system.streamlit.app/]
+- Finding Report: [https://canva.link/78hec0napcbogm4]
