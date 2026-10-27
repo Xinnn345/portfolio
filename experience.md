@@ -38,7 +38,7 @@ to deliver the programme's closing speech.
 - Communication and public speaking experience
 - Personal growth and cross-cultural awareness
 
-[Explore This Experience →](experiences/hebei-summer-school/)
+[Explore This Experience →](experience/hebei-summer-school/)
 
 ---
 
