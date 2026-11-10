@@ -8,11 +8,9 @@ permalink: /projects/
 
 # My Projects
 
-Here are selected projects demonstrating my experience
-with data analysis, machine learning, NLP, and dashboard
-development.
+Explore my selected projects showcasing my skills in data analytics, machine learning, natural language processing (NLP), interactive dashboard development, and website design, with a focus on practical, data-driven solutions and creative innovation.
 
-## 1. An AI-Driven Big Data and Deep Learning Framework for Complaint Detection and Risk Severity Assessment on Online Food Delivery Platforms
+## An AI-Driven Big Data and Deep Learning Framework for Complaint Detection and Risk Severity Assessment on Online Food Delivery Platforms
 
 <p align="center">
   <img src="food.png" width="700">
@@ -20,9 +18,7 @@ development.
 
 **Category:** Deep Learning | NLP | Risk Analytics
 
-Developed a framework for classifying customer complaints
-and assessing their risk severity in online food delivery
-platforms.
+Developed a framework for classifying customer complaints and assessing their risk severity in different online food delivery platforms.
 
 **Key components**
 - Text preprocessing and exploratory data analysis
@@ -30,8 +26,7 @@ platforms.
 - Complaint categorization and risk scoring
 - Streamlit dashboard for presenting insights
 
-**Technologies:** Python, Pandas, TensorFlow/Keras,
-NLTK, Streamlit
+**Technologies:** Python, Pandas, TensorFlow/Keras, NLTK, Streamlit
 
 [View Full Case Study](projects/food-delivery-risk.md)
 
