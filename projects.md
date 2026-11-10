@@ -1,19 +1,20 @@
 
 ---
-title: Projects
-permalink: /projects/
+Projects
 ---
 
-[Home]({{ '/' | relative_url }}) | [About Me]({{ '/about/' | relative_url }}) | [Experience]({{ '/experience/' | relative_url }}) | [Skills]({{ '/skills/' | relative_url }})
+[Home](README.md) | [About Me](about.md) | [Experience](experience.md) | [Skills](skills.md)
 
 # My Projects
 
 Explore my selected projects showcasing my skills in data analytics, machine learning, natural language processing (NLP), interactive dashboard development, and website design, with a focus on practical, data-driven solutions and creative innovation.
 
+---
+
 ## An AI-Driven Big Data and Deep Learning Framework for Complaint Detection and Risk Severity Assessment on Online Food Delivery Platforms
 
 <p align="center">
-  <img src="food.png" width="950">
+  <img src="food.png" width="800">
 </p>
 
 ![Deep Learning](https://img.shields.io/badge/Deep_Learning-526C9B?style=flat-square)
@@ -31,12 +32,12 @@ Explore my selected projects showcasing my skills in data analytics, machine lea
 
 [View Full Case Study](projects/food-delivery-risk.md)
 
-</br>
+---
 
 ## Sentiment Analysis on Balancing Innovation and Security in Generative AI (GenAI)
 
 <p align="center">
-  <img src="genai.png" width="950">
+  <img src="genai.png" width="800">
 </p>
 
 ![Sentiment Analysis](https://img.shields.io/badge/Sentiment_Analysis-243B53?style=flat-square)
@@ -54,12 +55,12 @@ Explore my selected projects showcasing my skills in data analytics, machine lea
 
 [View Full Case Study](generative-ai-sentiment/)
 
-</br>
+---
 
 ## Analyzing Crime Distribution and Prevention Strategies in Malaysia
 
 <p align="center">
-  <img src="crime.png" width="950">
+  <img src="crime.png" width="800">
 </p>
 
 ![Data Analytics](https://img.shields.io/badge/Data_Analytics-315B7D?style=flat-square)
@@ -76,12 +77,12 @@ Explore my selected projects showcasing my skills in data analytics, machine lea
 
 [View Full Case Study](crime-analysis/)
 
-</br>
+---
 
 ## Design and Implementation of a Data Warehouse for Healthcare Analytics to Support Public Health Decision-Making
 
 <p align="center">
-  <img src="health.png" width="950">
+  <img src="health.png" width="800">
 </p>
 
 ![Data Warehousing](https://img.shields.io/badge/Data_Warehousing-3574A5?style=flat-square)
@@ -96,7 +97,7 @@ Explore my selected projects showcasing my skills in data analytics, machine lea
 
 [View Full Case Study](crime-analysis/)
 
-</br>
+---
 
 ## PAW TRACK ADOPTION SYSTEM: FUREVER PET SANCTUARY SITE
 
@@ -116,12 +117,12 @@ Explore my selected projects showcasing my skills in data analytics, machine lea
 
 [View Full Case Study](crime-analysis/)
 
-</br>
+---
 
 ## LEVERAGING DATA ANALYTICS FOR URBAN PLANNING: TOWRADS SUSTAINABLE, SMART AND RESILIENT CITY AMID RESPONSIBLE ENERGY CONSUMPTION
 
 <p align="center">
-  <img src="urban.png" width="950">
+  <img src="urban.png" width="800">
 </p>
 
 ![Game Development](https://img.shields.io/badge/Game_Development-91AEC4?style=flat-square)
@@ -136,6 +137,9 @@ Explore my selected projects showcasing my skills in data analytics, machine lea
 
 [View Full Case Study](crime-analysis/)
 
+---
 
+</br>
 
+[Back to Previous Page](README.md)
 
