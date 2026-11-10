@@ -41,11 +41,15 @@ This project investigates an analytical approach to organizing feedback and high
 
 ## Methodology
 
-### 1. Data Preparation
+### 1. Dataset Preparation and Filtering
+
+Ingested and stored data in Google Drive, filter recent targeted years (2020-2024) and english comments, random sampling 500 samples in each years.
 
 Cleaned the review text, handled missing values and duplicates, and prepared the data for analysis.
 
-### 2. Exploratory Data Analysis
+### 2. Feature Extraction and 
+
+Extracted important features such as date, content, score and related food delivery platforms. Assign rating score that below 2 as complaint and above 2 as non-complaints, 
 
 Examined review distributions, complaint patterns, ratings, and sentiment.
 
