@@ -80,3 +80,10 @@ Successfully integrated data processing, deep learning classification, and risk 
 - GitHub Source Code: [GitHub Repository](https://github.com/XINnn2/FOOD)
 - Live Streamlit App: [Food Delivery Complaints Apps](https://complaint-system.streamlit.app/)
 - Finding Report: [Report](https://canva.link/78hec0napcbogm4)
+
+</br>
+</br>
+
+[Back to Previous Page](README.md)
+
+
