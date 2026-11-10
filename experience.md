@@ -1,10 +1,9 @@
 
 ---
-title: Experience
-permalink: /experience/
+Experience
 ---
 
-[Home]({{ '/' | relative_url }}) | [About Me]({{ '/about/' | relative_url }}) | [Projects]({{ '/projects/' | relative_url }}) | [Skills]({{ '/skills/' | relative_url }}) | [Contact]({{ '/contact/' | relative_url }})
+[Home](README.md) | [About Me](about.md) | [Projects](projects.md) | [Skills](skills.md)
 
 # My Experiences
 
@@ -64,6 +63,10 @@ Beyond the classroom, I explored traditional Chinese culture, participated in cu
 [Explore This Experience →](experience/hebei-summer-school/)
 
 ---
+
+</br>
+
+[Back to Previous Page](README.md)
 
 
 ## More About My Journey
