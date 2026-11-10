@@ -18,12 +18,6 @@ This project explores how deep learning, big data and cloud computing and risk a
 
 The objective is to classify complaint-related feedback and assess potential risk severity, helping managers to identify issues that may require further investigation.
 
-## Problem Statement
-
-Customer reviews contain useful information for food delivery platforms such as delivery problems, food quality, order accuracy, restaurant issues, payment and refund issues, pricing issues, application and technical problems and service experiences. Manually reviewing large volumes of feedback can make it difficult to identify recurring concerns. 
-
-This project investigates an analytical approach to organizing feedback and highlighting potentially important complaints.
-
 ## Objectives
 
 1. To develop and compare LSTM and GRU deep learning models in detecting and classifying complaint comments from food delivery platform reviews.
