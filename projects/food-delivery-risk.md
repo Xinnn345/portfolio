@@ -9,7 +9,7 @@ permalink: /projects/food-delivery-risk/
 # An AI-Driven Big Data and Deep Learning Framework for Complaint Detection and Risk Severity Assessment on Online Food Delivert Platforms 
 
 <p align="center">
-  <img src="food.png" width="800">
+  <img src="../food.png" width="950">
 </p>
 
 ## Project Overview
@@ -62,7 +62,7 @@ Designed a four-layer analytical architecture covering data ingestion and storag
 ## Key Findings
 
 <p align="center">
-  <img src="foodfindings.png" width="800">
+  <img src="../foodfindings.png" width="950">
 </p>
 
 ### 1. Deep Learning Performance
