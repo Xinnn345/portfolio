@@ -18,19 +18,42 @@ world.
 
 ---
 
-## 01. Chinese Government Scholarship International Summer School
+## Industrial Training at Cardas Research & Consulting Group
+
+**Industry Experience | Research and Data Support**
+
+*9 March 2026 – 8 March 2027*
+
+My industrial training has given me exposure to consumer research, industry research, and mystery shopping activities.
+Through these assignments, I have gained practical experience in data collection, Excel-based reporting, data validation, database filtering, and research coordination.
+
+<p align="center">
+  <img src="crcg.jpeg" width="950">
+</p>
+
+**Highlights**
+- Consumer research and data collection
+- Industry research and spreadsheet analysis
+- Data checking and report consistency
+- Database management and project support
+
+[Explore This Experience →](experiences/cardas-internship/)
+
+---
+
+## Chinese Government Scholarship International Summer School
 
 **Hebei University | Baoding, Hebei, China**
 
 *25 July – 10 August 2025*
 
-An international academic and cultural exchange programme
-that broadened my exposure to Big Data, Artificial Intelligence,
-Data Analytics, Digital Finance, E-commerce, and Digitalization.
+An international academic and cultural exchange programme that broadened my exposure to Big Data, Artificial Intelligence, Data Analytics, Digital Finance, E-commerce, and Digitalization.
 
-Beyond the classroom, I explored traditional Chinese culture,
-participated in cultural activities, and had the opportunity
-to deliver the programme's closing speech.
+Beyond the classroom, I explored traditional Chinese culture, participated in cultural activities, and had the opportunity to deliver the programme's closing speech.
+
+<p align="center">
+  <img src="hebei.jpeg" width="950">
+</p>
 
 **Highlights**
 - Academic exposure to data and digital technologies
@@ -42,27 +65,6 @@ to deliver the programme's closing speech.
 
 ---
 
-## 02. Industrial Training at Cardas Research & Consulting Group
-
-**Industry Experience | Research and Data Support**
-
-*Add your internship dates here*
-
-My industrial training has given me exposure to consumer
-research, industry research, and mystery shopping activities.
-Through these assignments, I have gained practical experience
-in data collection, Excel-based reporting, data validation,
-database filtering, and research coordination.
-
-**Highlights**
-- Consumer research and data collection
-- Industry research and spreadsheet analysis
-- Data checking and report consistency
-- Database management and project support
-
-[Explore This Experience →](experiences/cardas-internship/)
-
----
 
 ## More About My Journey
 
