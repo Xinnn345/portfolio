@@ -15,7 +15,7 @@ development.
 ## 1. An AI-Driven Big Data and Deep Learning Framework for Complaint Detection and Risk Severity Assessment on Online Food Delivery Platforms
 
 <p align="center">
-  <img src="images/food.png" width="700">
+  <img src="food.png" width="700">
 </p>
 
 **Category:** Deep Learning | NLP | Risk Analytics
