@@ -13,7 +13,7 @@ Explore my selected projects showcasing my skills in data analytics, machine lea
 ## An AI-Driven Big Data and Deep Learning Framework for Complaint Detection and Risk Severity Assessment on Online Food Delivery Platforms
 
 <p align="center">
-  <img src="images/food.png" width="950">
+  <img src="food.png" width="950">
 </p>
 
 ![Deep Learning](https://img.shields.io/badge/Deep_Learning-526C9B?style=flat-square)
@@ -35,7 +35,9 @@ Explore my selected projects showcasing my skills in data analytics, machine lea
 
 ## Sentiment Analysis on Balancing Innovation and Security in Generative AI (GenAI)
 
-**Category:** NLP | Sentiment Analysis | Topic Modelling
+<p align="center">
+  <img src="genai.png" width="950">
+</p>
 
 ![Sentiment Analysis](https://img.shields.io/badge/Sentiment_Analysis-243B53?style=flat-square)
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-466A85?style=flat-square)
@@ -52,19 +54,88 @@ Explore my selected projects showcasing my skills in data analytics, machine lea
 
 [View Full Case Study](generative-ai-sentiment/)
 
-## 3. Crime Analysis and Prediction
+</br>
 
-**Category:** Machine Learning | Predictive Analytics
+## Analyzing Crime Distribution and Prevention Strategies in Malaysia
 
-An analytical project exploring crime-related data and
-the application of machine learning for predictive analysis.
+<p align="center">
+  <img src="crime.png" width="950">
+</p>
+
+![Data Analytics](https://img.shields.io/badge/Data_Analytics-315B7D?style=flat-square)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-466A85?style=flat-square)
+![Predictive Analytics](https://img.shields.io/badge/Predictive_Analytics-789AB5?style=flat-square)
 
 **Key components**
-- Data cleaning and exploratory analysis
-- Feature preparation and model development
-- Model evaluation and result interpretation
-- Streamlit-based presentation, if applicable
+- Data preprocessing, cleaning, and predictive model development
+- Model performance evaluation and analytical interpretation
+- Interactive Streamlit application and dashboard development
+- Predictive analytics and spatial analysis of crime distribution
 
-**Technologies:** Python, Pandas, LightGBM, Streamlit
+**Technologies:** Python, Pandas, LightGBM Model, Streamlit
 
 [View Full Case Study](crime-analysis/)
+
+</br>
+
+## Design and Implementation of a Data Warehouse for Healthcare Analytics to Support Public Health Decision-Making
+
+<p align="center">
+  <img src="health.png" width="950">
+</p>
+
+![Data Warehousing(https://img.shields.io/badge/Data_Warehousing-3574A5?style=flat-square)
+
+**Key components**
+- Data preprocessing, cleaning, and predictive model development (need to be updated)
+- Model performance evaluation and analytical interpretation
+- Interactive Streamlit application and dashboard development
+- Predictive analytics and spatial analysis of crime distribution
+
+**Technologies:** Python, Pandas, LightGBM Model, Streamlit
+
+[View Full Case Study](crime-analysis/)
+
+</br>
+
+## PAW TRACK ADOPTION SYSTEM: FUREVER PET SANCTUARY SITE
+
+<p align="center">
+  <img src="paw.png" width="950">
+</p>
+
+![Website Design(https://img.shields.io/badge/Website_Design-668B83?style=flat-square)
+
+**Key components**
+- Data preprocessing, cleaning, and predictive model development (need to be updated)
+- Model performance evaluation and analytical interpretation
+- Interactive Streamlit application and dashboard development
+- Predictive analytics and spatial analysis of crime distribution
+
+**Technologies:** Python, Pandas, LightGBM Model, Streamlit
+
+[View Full Case Study](crime-analysis/)
+
+</br>
+
+## LEVERAGING DATA ANALYTICS FOR URBAN PLANNING: TOWRADS SUSTAINABLE, SMART AND RESILIENT CITY AMID RESPONSIBLE ENERGY CONSUMPTION
+
+<p align="center">
+  <img src="urban.png" width="950">
+</p>
+
+![Game Development(https://img.shields.io/badge/Game_Development-91AEC4?style=flat-square)
+
+**Key components**
+- Data preprocessing, cleaning, and predictive model development (need to be updated)
+- Model performance evaluation and analytical interpretation
+- Interactive Streamlit application and dashboard development
+- Predictive analytics and spatial analysis of crime distribution
+
+**Technologies:** Python, Pandas, LightGBM Model, Streamlit
+
+[View Full Case Study](crime-analysis/)
+
+
+
+
