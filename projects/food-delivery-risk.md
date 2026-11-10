@@ -4,38 +4,31 @@ title: AI-Based Customer Complaint Risk Detection
 permalink: /projects/food-delivery-risk/
 ---
 
-[Home]({{ '/' | relative_url }}) | [All Projects]({{ '/projects/' | relative_url }})
+[Home](README.md) | [All Projects](projects.md)
 
-# AI-Based Customer Complaint Risk Detection
+# An AI-Driven Big Data and Deep Learning Framework for Complaint Detection and Risk Severity Assessment on Online Food Delivert Platforms 
+
+<p align="center">
+  <img src="food.png" width="800">
+</p>
 
 ## Project Overview
 
-This project explores how deep learning and big data
-analytics concepts can be applied to customer complaints
-from online food delivery platforms.
+This project explores how deep learning, big data and cloud computing and risk analysis concepts can be applied to customer complaints on online food delivery platforms.
 
-The objective is to classify complaint-related feedback
-and assess potential risk severity, helping managers
-identify issues that may require further investigation.
+The objective is to classify complaint-related feedback and assess potential risk severity, helping managers to identify issues that may require further investigation.
 
 ## Problem Statement
 
-Customer reviews contain useful information about delivery
-problems, food quality, payment issues, and service
-experiences. Manually reviewing large volumes of feedback
-can make it difficult to identify recurring concerns.
+Customer reviews contain useful information for food delivery platforms such as delivery problems, food quality, order accuracy, restaurant issues, payment and refund issues, pricing issues, application and technical problems and service experiences. Manually reviewing large volumes of feedback can make it difficult to identify recurring concerns. 
 
-This project investigates an analytical approach to
-organizing feedback and highlighting potentially important
-complaints.
+This project investigates an analytical approach to organizing feedback and highlighting potentially important complaints.
 
 ## Objectives
 
-1. Prepare and analyse customer review data.
-2. Develop an LSTM model for complaint classification.
-3. Categorize feedback into meaningful issue types.
-4. Develop a risk scoring approach for prioritization.
-5. Present findings through an interactive dashboard.
+1. To develop and compare LSTM and GRU deep learning models in detecting and classifying complaint comments from food delivery platform reviews.
+2. To build a structured cloud-based big data pipeline for ingestion, processing, storage, and analysis for a large-scale customer review data to support decision-making in transforming raw user-generated contents into a reliable and high-quality data.
+3. To assess risk severity level using a probabilistic risk scoring model based on sentiment polarity, customer ratings, complaint categories and frequencies.
 
 ## Tools and Technologies
 
@@ -43,35 +36,30 @@ complaints.
 - Pandas and NumPy
 - TensorFlow / Keras
 - Natural Language Processing
+- Matplotlib / Seaborn
 - Streamlit
-- Matplotlib / Seaborn, if used
 
 ## Methodology
 
 ### 1. Data Preparation
 
-Cleaned the review text, handled missing values and
-duplicates, and prepared the data for analysis.
+Cleaned the review text, handled missing values and duplicates, and prepared the data for analysis.
 
 ### 2. Exploratory Data Analysis
 
-Examined review distributions, complaint patterns,
-ratings, and sentiment.
+Examined review distributions, complaint patterns, ratings, and sentiment.
 
 ### 3. Model Development
 
-Developed an LSTM-based text classification model
-to predict complaint-related labels.
+Developed an LSTM-based text classification model to predict complaint-related labels.
 
 ### 4. Risk Analysis
 
-Combined selected indicators into a risk scoring
-framework to prioritize feedback for further review.
+Combined selected indicators into a risk scoring framework to prioritize feedback for further review.
 
 ### 5. Dashboard Development
 
-Built a Streamlit dashboard to explore review data,
-complaint categories, model predictions, and risk levels.
+Built a Streamlit dashboard to explore review data, complaint categories, model predictions, and risk levels.
 
 ## Model Evaluation
 
