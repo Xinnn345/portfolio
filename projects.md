@@ -84,7 +84,7 @@ Explore my selected projects showcasing my skills in data analytics, machine lea
   <img src="health.png" width="950">
 </p>
 
-![Data Warehousing(https://img.shields.io/badge/Data_Warehousing-3574A5?style=flat-square)
+![Data Warehousing](https://img.shields.io/badge/Data_Warehousing-3574A5?style=flat-square)
 
 **Key components**
 - Data preprocessing, cleaning, and predictive model development (need to be updated)
@@ -104,7 +104,7 @@ Explore my selected projects showcasing my skills in data analytics, machine lea
   <img src="paw.png" width="950">
 </p>
 
-![Website Design(https://img.shields.io/badge/Website_Design-668B83?style=flat-square)
+![Website Design](https://img.shields.io/badge/Website_Design-668B83?style=flat-square)
 
 **Key components**
 - Data preprocessing, cleaning, and predictive model development (need to be updated)
@@ -124,7 +124,7 @@ Explore my selected projects showcasing my skills in data analytics, machine lea
   <img src="urban.png" width="950">
 </p>
 
-![Game Development(https://img.shields.io/badge/Game_Development-91AEC4?style=flat-square)
+![Game Development](https://img.shields.io/badge/Game_Development-91AEC4?style=flat-square)
 
 **Key components**
 - Data preprocessing, cleaning, and predictive model development (need to be updated)
