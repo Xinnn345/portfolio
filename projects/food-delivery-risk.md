@@ -41,61 +41,42 @@ This project investigates an analytical approach to organizing feedback and high
 
 ## Methodology
 
-### 1. Dataset Preparation and Filtering
+### 1. Dataset Collection and Preparation
+Collected and stored food delivery platform reviews in Google Drive. Filtered English-language reviews from 2020–2024 and applied random sampling of up to 500 reviews per year to obtain a manageable dataset for analysis.
 
-Ingested and stored data in Google Drive, filter recent targeted years (2020-2024) and english comments, random sampling 500 samples in each years.
+### 2. Feature Extraction and Complaint Identification
+Extracted key features, including review dates, customer comments, ratings, and platform names. Used customer ratings to establish complaint labels, classifying reviews with ratings below 2 as complaints and ratings above 2 as non-complaints.
 
-Cleaned the review text, handled missing values and duplicates, and prepared the data for analysis.
+### 3. Text Preprocessing and Exploratory Data Analysis
+Performed text cleaning, including lowercase conversion, URL and special character removal, tokenization, stop-word removal, and lemmatization. Categorized complaints into nine issue types and applied VADER for sentiment classification (positive, neutral, and negative). Conducted EDA to identify customer feedback patterns and complaint trends.
 
-### 2. Feature Extraction and 
+### 4. Deep Learning Model Development
+Developed and compared LSTM and GRU models using an 80:20 training-testing split. Evaluated model performance using accuracy, precision, recall, F1-score, confusion matrices, ROC-AUC, and training/testing loss curves to select the most suitable model for complaint classification.
 
-Extracted important features such as date, content, score and related food delivery platforms. Assign rating score that below 2 as complaint and above 2 as non-complaints, 
+### 5. Complaint Risk Assessment
+Developed a weighted risk scoring framework using four indicators: sentiment severity, rating severity, complaint frequency, and complaint category weight. Classified complaints into Low, Medium, and High risk levels and visualized the results using risk matrices, complaint distribution charts, and risk score comparisons.
 
-Examined review distributions, complaint patterns, ratings, and sentiment.
-
-### 3. Model Development
-
-Developed an LSTM-based text classification model to predict complaint-related labels.
-
-### 4. Risk Analysis
-
-Combined selected indicators into a risk scoring framework to prioritize feedback for further review.
-
-### 5. Dashboard Development
-
-Built a Streamlit dashboard to explore review data, complaint categories, model predictions, and risk levels.
-
-## Model Evaluation
-
-Report the metrics measured on your held-out test set.
-
-- Accuracy: 87%
-- ROC-AUC: 0.938
-
-Include precision, recall, F1-score, and a confusion
-matrix where appropriate. Explain which errors matter
-most for this application.
+### 6. Big Data Architecture and Application Deployment
+Designed a four-layer analytical architecture covering data ingestion and storage, data processing, analytical modelling, and application visualization. Integrated the workflow into an interactive Streamlit dashboard, enabling users to monitor customer complaints, explore platform-level trends, and identify high-risk issues.
 
 ## Key Findings
 
-Add three to five findings supported by your actual
-analysis, such as recurring complaint categories,
-differences between platforms, or patterns in risk levels.
+<p align="center">
+  <img src="foodfindings.png" width="800">
+</p>
 
-Do not include claims that have not been verified
-against your results.
+### 1. Deep Learning Performance
+The LSTM model outperformed the GRU model and was selected as the final classification model, achieving approximately **88% recall and 0.94 ROC-AUC**, demonstrating its ability to identify complaint-related reviews.
 
-## Challenges and Lessons Learned
+### 2. Complaint Risk Analysis
+Identified **1,387 high-risk reviews**, with payment and refund issues emerging as the most prominent high-risk category across most platforms. Bolt Food also showed notable high-risk patterns in delivery, order accuracy, and customer service complaints.
 
-Describe challenges in text preprocessing, model
-training, classification errors, or dashboard integration.
-
-Explain how you addressed them and what you would
-improve in a future version.
+### 3. Application Development
+Successfully integrated data processing, deep learning classification, and risk assessment into a Streamlit application, processing approximately **10,000 raw reviews** and providing interactive visualizations for complaint monitoring and risk analysis.
 
 ## Project Links
 
 - Dataset: [Food Delivery Apps Reviews on Kaggle](https://www.kaggle.com/datasets/skamlo/food-delivery-apps-reviews)
 - GitHub Source Code: [GitHub Repository](https://github.com/XINnn2/FOOD)
-- Live App Demo: [Food Delivery Complaints Apps](https://complaint-system.streamlit.app/)
+- Live Streamlit App: [Food Delivery Complaints Apps](https://complaint-system.streamlit.app/)
 - Finding Report: [Report](https://canva.link/78hec0napcbogm4)
