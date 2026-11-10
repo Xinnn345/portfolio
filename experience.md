@@ -28,7 +28,7 @@ My industrial training has given me exposure to consumer research, industry rese
 Through these assignments, I have gained practical experience in data collection, Excel-based reporting, data validation, database filtering, and research coordination.
 
 <p align="center">
-  <img src="crcg.jpeg" width="950">
+  <img src="crcg.jpg" width="800">
 </p>
 
 **Highlights**
@@ -52,7 +52,7 @@ An international academic and cultural exchange programme that broadened my expo
 Beyond the classroom, I explored traditional Chinese culture, participated in cultural activities, and had the opportunity to deliver the programme's closing speech.
 
 <p align="center">
-  <img src="hebei.jpeg" width="950">
+  <img src="hebei.jpeg" width="800">
 </p>
 
 **Highlights**
