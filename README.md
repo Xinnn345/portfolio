@@ -26,7 +26,6 @@ and business understanding to solve real-world problems.
 - [My Projects](projects.md)
 - [Experience](experience.md)
 - [Skills & Tools](skills.md)
-- [Contact Me](contact.md)
 
 ---
 
