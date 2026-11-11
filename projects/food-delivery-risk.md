@@ -4,7 +4,7 @@ title: AI-Based Customer Complaint Risk Detection
 permalink: /projects/food-delivery-risk/
 ---
 
-[Home](README.md) | [All Projects](projects.md)
+[Home](../README.md) | [All Projects](../projects.md)
 
 # An AI-Driven Big Data and Deep Learning Framework for Complaint Detection and Risk Severity Assessment on Online Food Delivert Platforms 
 
@@ -78,6 +78,6 @@ Successfully integrated data processing, deep learning classification, and risk 
 </br>
 </br>
 
-[Back to Previous Page](README.md)
+[Back to Previous Page](../README.md)
 
 
