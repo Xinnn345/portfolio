@@ -78,6 +78,6 @@ Successfully integrated data processing, deep learning classification, and risk 
 </br>
 </br>
 
-[Back to Previous Page](../README.md)
+[Back to Previous Page](../projects.md)
 
 
