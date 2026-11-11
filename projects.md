@@ -53,7 +53,7 @@ Explore my selected projects showcasing my skills in data analytics, machine lea
 
 **Technologies:** Python, Pandas, Scikit-learn, NLTK
 
-[View Full Case Study](generative-ai-sentiment/)
+[View Full Case Study](projects/generative-ai-sentiment.md)
 
 ---
 
@@ -75,7 +75,7 @@ Explore my selected projects showcasing my skills in data analytics, machine lea
 
 **Technologies:** Python, Pandas, LightGBM Model, Streamlit
 
-[View Full Case Study](crime-analysis/)
+[View Full Case Study](projects/crime-analysis.md)
 
 ---
 
@@ -95,7 +95,7 @@ Explore my selected projects showcasing my skills in data analytics, machine lea
 
 **Technologies:** Python, Pandas, LightGBM Model, Streamlit
 
-[View Full Case Study](crime-analysis/)
+[View Full Case Study](projects/healthcare.md)
 
 ---
 
@@ -115,7 +115,7 @@ Explore my selected projects showcasing my skills in data analytics, machine lea
 
 **Technologies:** Python, Pandas, LightGBM Model, Streamlit
 
-[View Full Case Study](crime-analysis/)
+[View Full Case Study](projects/paw-track.md)
 
 ---
 
@@ -135,7 +135,7 @@ Explore my selected projects showcasing my skills in data analytics, machine lea
 
 **Technologies:** Python, Pandas, LightGBM Model, Streamlit
 
-[View Full Case Study](crime-analysis/)
+[View Full Case Study](projects/urban-game.md)
 
 ---
 
