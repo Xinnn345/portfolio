@@ -130,4 +130,4 @@ The findings highlight the importance of balancing technological innovation with
 </br>
 </br>
 
-[Back to Previous Page](../README.md)
+[Back to Previous Page](../projects.md)
