@@ -12,56 +12,55 @@ permalink: /projects/food-delivery-risk/
 
 ## Project Overview
 
-This project explores how deep learning, big data and cloud computing and risk analysis concepts can be applied to customer complaints on online food delivery platforms.
-
-The objective is to classify complaint-related feedback and assess potential risk severity, helping managers to identify issues that may require further investigation.
+This project focuses on designing and implementing a healthcare data warehouse to integrate, organize, and analyse electronic medical record (EMR) data. The system applies data warehousing concepts to support healthcare analytics, improve data accessibility, and provide insights into patient conditions, medical treatments, and healthcare resource utilization.
 
 ## Objectives
 
-1. To develop and compare LSTM and GRU deep learning models in detecting and classifying complaint comments from food delivery platform reviews.
-2. To build a structured cloud-based big data pipeline for ingestion, processing, storage, and analysis for a large-scale customer review data to support decision-making in transforming raw user-generated contents into a reliable and high-quality data.
-3. To assess risk severity level using a probabilistic risk scoring model based on sentiment polarity, customer ratings, complaint categories and frequencies.
+1. To design a healthcare data warehouse using a Snowflake Schema to organize fact and dimension tables and maintain structured data relationships.
+2. To develop an ETL pipeline to extract, transform, validate, and load healthcare datasets into a centralized database.
+3. To apply SQL-based OLAP operations and Power BI visualizations to analyse healthcare trends and support data-driven decision-making.
 
 ## Tools and Technologies
 
-- Python
-- Pandas and NumPy
-- TensorFlow / Keras
-- Natural Language Processing
-- Matplotlib / Seaborn
-- Streamlit
+- Python (Pandas)
+- Google Colab
+- PostgreSQL / pgAdmin 4
+- SQL
+- Power BI
+- Snowflake Schema
+- ETL (Extract, Transform, Load)
+- OLAP (Online Analytical Processing)
 
 ## Methodology
 
 ### 1. Dataset Collection and Preparation
-Collected and stored food delivery platform reviews in Google Drive. Filtered English-language reviews from 2020–2024 and applied random sampling of up to 500 reviews per year to obtain a manageable dataset for analysis.
+Collected healthcare datasets from Kaggle, covering patient demographics, medical conditions, treatments, laboratory tests, vital records, insurance, and hospital encounters. Prepared the datasets in CSV format for further processing and integration.
 
-### 2. Feature Extraction and Complaint Identification
-Extracted key features, including review dates, customer comments, ratings, and platform names. Used customer ratings to establish complaint labels, classifying reviews with ratings below 2 as complaints and ratings above 2 as non-complaints.
+### 2. Data Cleaning and Transformation
+Used Python and Pandas in Google Colab to inspect dataset structures, validate data types and date formats, and check for missing and duplicate records. Applied the necessary filtering and formatting to ensure data consistency before loading.
 
-### 3. Text Preprocessing and Exploratory Data Analysis
-Performed text cleaning, including lowercase conversion, URL and special character removal, tokenization, stop-word removal, and lemmatization. Categorized complaints into nine issue types and applied VADER for sentiment classification (positive, neutral, and negative). Conducted EDA to identify customer feedback patterns and complaint trends.
+### 3. Data Warehouse Design
+Designed a Snowflake Schema consisting of multiple fact and dimension tables to organize healthcare information. Established relationships between tables using primary and foreign keys to support structured data storage, reduce redundancy, and maintain referential integrity.
 
-### 4. Deep Learning Model Development
-Developed and compared LSTM and GRU models using an 80:20 training-testing split. Evaluated model performance using accuracy, precision, recall, F1-score, confusion matrices, ROC-AUC, and training/testing loss curves to select the most suitable model for complaint classification.
+### 4. ETL Pipeline Implementation
+Implemented the Extract, Transform, and Load (ETL) process using Google Colab and pgAdmin 4. Exported the transformed datasets from Colab and loaded them into the PostgreSQL database, making the structured data available for SQL queries and further analysis.
 
-### 5. Complaint Risk Assessment
-Developed a weighted risk scoring framework using four indicators: sentiment severity, rating severity, complaint frequency, and complaint category weight. Classified complaints into Low, Medium, and High risk levels and visualized the results using risk matrices, complaint distribution charts, and risk score comparisons.
+### 5. OLAP Analysis Using SQL
+Applied five OLAP operations using SQL in pgAdmin 4: Roll-up, Drill-down, Slicing, Pivot, and Dicing. Analysed patient encounters, disease categories, disease severity, patient demographics, and treatment-related records from different perspectives.
 
-### 6. Big Data Architecture and Application Deployment
-Designed a four-layer analytical architecture covering data ingestion and storage, data processing, analytical modelling, and application visualization. Integrated the workflow into an interactive Streamlit dashboard, enabling users to monitor customer complaints, explore platform-level trends, and identify high-risk issues.
+### 6. Data Visualization and Dashboard Development
+Developed an interactive Power BI dashboard to present healthcare insights for 2024. Included key performance indicators, patient encounter trends, disease distributions, treatment records, room utilization, vital statistics, and patient severity analysis, with filters for month, gender, and insurance plan.
 
 ## Key Findings
 
-<p align="center">
-  <img src="../foodfindings.png" width="950">
-</p>
+### 1. Healthcare Data Overview
+The dashboard summarized approximately 116,000 patients, 406,000 treatments, and 110 doctors recorded in the 2024 dataset, providing an overview of healthcare activities and resource utilization.
 
-### 1. Deep Learning Performance
-The LSTM model outperformed the GRU model and was selected as the final classification model, achieving approximately **88% recall and 0.94 ROC-AUC**, demonstrating its ability to identify complaint-related reviews.
+### 2. Patient and Treatment Insights
+Internal Medicine recorded the highest number of patient encounters among the displayed disease categories. Surgery was also the most frequently recorded treatment type, accounting for approximately 66.05% of treatment records.
 
-### 2. Complaint Risk Analysis
-Identified **1,387 high-risk reviews**, with payment and refund issues emerging as the most prominent high-risk category across most platforms. Bolt Food also showed notable high-risk patterns in delivery, order accuracy, and customer service complaints.
+### 3. Healthcare Cost and Severity Analysis
+Oncology recorded the highest average patient severity score (76.53), while Dermatology recorded the lowest (50.41). The dashboard also presented treatment costs and patient severity across disease categories to support healthcare resource planning.
 
-### 3. Application Development
-Successfully integrated data processing, deep learning classification, and risk assessment into a Streamlit application, processing approximately **10,000 raw reviews** and providing interactive visualizations for complaint monitoring and risk analysis.\
+
+[Back to Previous Page](../projects)
