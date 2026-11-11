@@ -13,59 +13,87 @@ permalink: /projects/food-delivery-risk/
 
 ## Project Overview
 
-This project explores how deep learning, big data and cloud computing and risk analysis concepts can be applied to customer complaints on online food delivery platforms.
+This project applies data analytics and machine learning to analyze crime distribution and trends across Malaysia, while investigating the relationships between crime rates and socioeconomic indicators.
 
-The objective is to classify complaint-related feedback and assess potential risk severity, helping managers to identify issues that may require further investigation.
+Using historical crime statistics and socioeconomic data from OpenDOSM, the study develops predictive models to identify crime patterns and generate insights that can support evidence-based crime prevention strategies.
 
 ## Objectives
 
-1. To develop and compare LSTM and GRU deep learning models in detecting and classifying complaint comments from food delivery platform reviews.
-2. To build a structured cloud-based big data pipeline for ingestion, processing, storage, and analysis for a large-scale customer review data to support decision-making in transforming raw user-generated contents into a reliable and high-quality data.
-3. To assess risk severity level using a probabilistic risk scoring model based on sentiment polarity, customer ratings, complaint categories and frequencies.
+1. To analyze crime distribution and trends across Malaysian states and years.
+2. To examine relationships between crime rates and socioeconomic indicators, including household income, unemployment and education completion rates.
+3. To develop machine learning models to predict crime distribution and provide data-driven insights for crime prevention and policy planning.
 
 ## Tools and Technologies
 
-- Python
-- Pandas and NumPy
-- TensorFlow / Keras
-- Natural Language Processing
-- Matplotlib / Seaborn
-- Streamlit
+- **Programming:** Python
+- **Database:** PostgreSQL
+- **Data Analysis:** Pandas, NumPy
+- **Data Visualization:** Matplotlib, Seaborn
+- **Machine Learning:** Scikit-learn, XGBoost, CatBoost, LightGBM
+- **Model Deployment:** Streamlit, Power BI
+- **Development Environment:** Google Colab
 
 ## Methodology
 
-### 1. Dataset Collection and Preparation
-Collected and stored food delivery platform reviews in Google Drive. Filtered English-language reviews from 2020–2024 and applied random sampling of up to 500 reviews per year to obtain a manageable dataset for analysis.
+### 1. Dataset Collection and Integration
+Collected four datasets from OpenDOSM, covering crime statistics, household income, annual labour force statistics and school completion rates in Malaysia. The datasets cover different time periods, with the main crime dataset spanning 2016–2023.
 
-### 2. Feature Extraction and Complaint Identification
-Extracted key features, including review dates, customer comments, ratings, and platform names. Used customer ratings to establish complaint labels, classifying reviews with ratings below 2 as complaints and ratings above 2 as non-complaints.
+Used PostgreSQL to integrate multiple datasets based on relevant geographical and time-related attributes, creating a consolidated dataset for further analysis.
 
-### 3. Text Preprocessing and Exploratory Data Analysis
-Performed text cleaning, including lowercase conversion, URL and special character removal, tokenization, stop-word removal, and lemmatization. Categorized complaints into nine issue types and applied VADER for sentiment classification (positive, neutral, and negative). Conducted EDA to identify customer feedback patterns and complaint trends.
+### 2. Data Cleaning and Preprocessing
+Performed data quality checks to identify missing values and duplicate records. Handled missing numerical values using district-level averages, time-series interpolation and overall variable averages, while removing incomplete categorical records.
 
-### 4. Deep Learning Model Development
-Developed and compared LSTM and GRU models using an 80:20 training-testing split. Evaluated model performance using accuracy, precision, recall, F1-score, confusion matrices, ROC-AUC, and training/testing loss curves to select the most suitable model for complaint classification.
+Removed redundant aggregate records and irrelevant variables, applied label encoding to categorical features, and investigated outliers to determine whether they represented meaningful variations in the data.
 
-### 5. Complaint Risk Assessment
-Developed a weighted risk scoring framework using four indicators: sentiment severity, rating severity, complaint frequency, and complaint category weight. Classified complaints into Low, Medium, and High risk levels and visualized the results using risk matrices, complaint distribution charts, and risk score comparisons.
+### 3. Exploratory Data Analysis (EDA) and Feature Selection
+Conducted exploratory data analysis using descriptive statistics, correlation heatmaps and distribution plots to examine crime patterns and relationships with socioeconomic indicators.
 
-### 6. Big Data Architecture and Application Deployment
-Designed a four-layer analytical architecture covering data ingestion and storage, data processing, analytical modelling, and application visualization. Integrated the workflow into an interactive Streamlit dashboard, enabling users to monitor customer complaints, explore platform-level trends, and identify high-risk issues.
+Applied ANOVA and Pearson correlation-based feature selection to identify statistically significant variables. Selected relevant features, including household income, unemployment population and school completion rates, for machine learning development.
+
+### 4. Machine Learning Model Development
+Developed and compared four supervised regression models: XGBoost, CatBoost, LightGBM and HistGradient Boosting.
+
+Split the dataset into 80% training and 20% testing data. Applied RandomizedSearchCV for hyperparameter tuning and evaluated model performance using Mean Absolute Error (MAE), Mean Squared Error (MSE), Root Mean Squared Error (RMSE) and R-squared (R²).
+
+### 5. Model Evaluation and Selection
+Compared the performance of all four regression models based on prediction errors, explanatory power and training efficiency.
+
+Selected LightGBM as the final model due to its lowest prediction errors and highest R-squared value, making it the most suitable model for predicting crime distribution in this study.
+
+### 6. Model Deployment and Dashboard Development
+Serialized the trained LightGBM model and integrated it into an interactive Streamlit web application.
+
+Developed an application with three main functional sections:
+- **Dashboard:** Explore historical crime distribution from 2016–2023, filter by state, crime category and year, and identify the top five recorded crime types.
+- **Prediction:** Generate crime predictions for selected states, crime categories and future years using the trained LightGBM model.
+- **Alerts & Feedback:** Display crime prevention reminders and allow users to submit feedback on application functionality and prediction results.
+
+The application provides an accessible platform for exploring crime trends and supporting data-driven decision-making.
+
+[Live Application](https://crime-app-analysis.streamlit.app/)
 
 ## Key Findings
 
-<p align="center">
-  <img src="../foodfindings.png" width="950">
-</p>
+### 1. Crime Distribution and Trends
+Identified variations in crime distribution across Malaysian states and years. Property crimes, particularly vehicle theft and motorcycle theft, were among the most common crime types, with notable concentrations in urban areas such as Kuala Lumpur and Selangor.
 
-### 1. Deep Learning Performance
-The LSTM model outperformed the GRU model and was selected as the final classification model, achieving approximately **88% recall and 0.94 ROC-AUC**, demonstrating its ability to identify complaint-related reviews.
+### 2. Socioeconomic Relationships
+Identified moderate positive correlations between household income and crime, while unemployment showed a weaker positive relationship. The analysis also highlighted relationships between education completion rates and crime distribution.
 
-### 2. Complaint Risk Analysis
-Identified **1,387 high-risk reviews**, with payment and refund issues emerging as the most prominent high-risk category across most platforms. Bolt Food also showed notable high-risk patterns in delivery, order accuracy, and customer service complaints.
+### 3. Machine Learning Performance
+LightGBM achieved the best overall regression performance among the four evaluated models:
+- **MAE:** 31.2143
+- **MSE:** 5,456.6366
+- **RMSE:** 73.8690
+- **R²:** 0.5208
 
-### 3. Application Development
-Successfully integrated data processing, deep learning classification, and risk assessment into a Streamlit application, processing approximately **10,000 raw reviews** and providing interactive visualizations for complaint monitoring and risk analysis.
+The R² result indicates that approximately 52.08% of the variation in crime outcomes was explained by the model.
+
+### 4. Application Development
+Successfully deployed the selected LightGBM model through Streamlit, integrating historical crime analysis, predictive modelling and an interactive feedback system into one application.
+
+The system allows users to explore crime patterns across 14 Malaysian states and generate predictions for selected future years.
+
 
 ## Project Links
 
