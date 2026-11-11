@@ -63,4 +63,4 @@ Internal Medicine recorded the highest number of patient encounters among the di
 Oncology recorded the highest average patient severity score (76.53), while Dermatology recorded the lowest (50.41). The dashboard also presented treatment costs and patient severity across disease categories to support healthcare resource planning.
 
 
-[Back to Previous Page](../projects)
+[Back to Previous Page](../projects.md)
