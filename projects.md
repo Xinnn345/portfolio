@@ -99,7 +99,7 @@ Explore my selected projects showcasing my skills in data analytics, machine lea
 
 ---
 
-## PAW TRACK ADOPTION SYSTEM: FUREVER PET SANCTUARY SITE
+## Paw Track Adoption System: Furever Pet Sanctuary Site
 
 <p align="center">
   <img src="paw.png" width="950">
@@ -119,7 +119,7 @@ Explore my selected projects showcasing my skills in data analytics, machine lea
 
 ---
 
-## LEVERAGING DATA ANALYTICS FOR URBAN PLANNING: TOWRADS SUSTAINABLE, SMART AND RESILIENT CITY AMID RESPONSIBLE ENERGY CONSUMPTION
+## Leveraging Data Analytics For Urban Planning: Towards Sustainable, Smart And Resilient City Amid Responsible Energy Consumption
 
 <p align="center">
   <img src="urban.png" width="800">
