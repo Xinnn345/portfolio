@@ -32,8 +32,6 @@ Furever Pet Sanctuary Site is a website project designed to connect rescued anim
 ### 1. Pet Adoption Directory
 Organized pet listings by animal category, including dogs, cats, rabbits, hamsters, and ferrets. Each listing provides basic pet information and access to individual details.
 
-Used PostgreSQL to integrate multiple datasets based on relevant geographical and time-related attributes, creating a consolidated dataset for further analysis.
-
 ### 2. Adoption Information
 Provides adoption guidelines, application steps, and frequently asked questions to help potential adopters understand the adoption process.
 
