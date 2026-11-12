@@ -29,44 +29,6 @@ and business understanding to solve real-world problems.
 
 ---
 
-## Featured Projects
-
-### 1. AI-Based Customer Complaint Risk Detection
-
-**Category:** Deep Learning | NLP | Risk Analytics
-
-Exploring how deep learning and data analytics can help
-identify customer complaints and assess risk severity
-in online food delivery platforms.
-
-**Tools:** Python, LSTM, NLP, Streamlit
-
-[View Project Details](projects/food-delivery-risk/)
-
-### 2. Sentiment Analysis on Generative AI
-
-**Category:** NLP | Sentiment Analysis | Topic Modelling
-
-Analysing public opinions about generative AI to explore
-perspectives on innovation, security, and potential risks.
-
-**Tools:** Python, TF-IDF, Scikit-learn, NLP
-
-[View Project Details](projects/generative-ai-sentiment/)
-
-### 3. Crime Analysis and Prediction
-
-**Category:** Machine Learning | Predictive Analytics
-
-Exploring crime-related data through data analysis and
-machine learning techniques.
-
-**Tools:** Python, Pandas, LightGBM, Streamlit
-
-[View Project Details](projects/crime-analysis/)
-
----
-
 ## What I Do
 
 - **Data Analysis:** Data cleaning, exploratory analysis,
