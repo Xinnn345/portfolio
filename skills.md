@@ -104,7 +104,7 @@ Python is one of the main programming languages I use for data analysis and data
 - Data visualization
 
 **Related Projects:**
-- AI-Based Customer Complaint Risk Detection
+- An AI-Driven Big Data and Deep Learning Framework for Complaint Detection and Risk Severity Assessment on Online Food Delivery Platforms
 - Sentiment Analysis on Balancing Innovation and Security in Generative AI
 
 [Explore My Projects →](projects.md)
@@ -134,7 +134,7 @@ During my industrial training at Cardas Research & Consulting Group, I used Exce
 
 I also gained earlier working experience handling sales records and invoices using Excel to estimate business profits and losses.
 
-[Explore My Industrial Training →](experiences/cardas-internship/)
+[Explore My Industrial Training →](experiences/crcg.md)
 
 ---
 
@@ -181,8 +181,7 @@ SQL is an important part of my data analytics foundation. Through academic learn
 - Database design and development
 
 **Related Projects:**
-- Paw Track Adoption System: Furever Pet Sanctuary Site
-- Design and Implementation of a Data Warehouse for Healthcare Analytics
+- Design and Implementation of a Data Warehouse for Healthcare Analytics to Support Public Health Decision-Making
 
 [Explore My Projects →](projects.md)
 
@@ -254,7 +253,8 @@ I have used Streamlit to develop interactive web applications that present analy
 - Analytical result presentation
 
 **Related Project:**
-- AI-Based Customer Complaint Risk Detection
+- An AI-Driven Big Data and Deep Learning Framework for Complaint Detection and Risk Severity Assessment on Online Food Delivery Platforms
+- Analyzing Crime Distribution and Prevention Strategies in Malaysia
 
 [Explore My Projects →](projects.md)
 
@@ -297,7 +297,7 @@ I use GitHub and Visual Studio Code to organize project files, write and manage 
 - Portfolio development using GitHub Pages
 - Organizing academic and personal projects
 
-[Visit My GitHub Profile →](https://github.com/)
+[Visit My GitHub Profile →](https://github.com/Xinnn345)
 
 ---
 
@@ -327,7 +327,7 @@ Issuing Organization | Completion Year
 
 An international academic and cultural exchange programme that broadened my exposure to Big Data, Artificial Intelligence, Data Analytics, Digital Finance, E-commerce and Digitalization.
 
-[Explore This Experience →](experience/hebei-summer-school/)
+[Explore This Experience →](experience/hebei-summer-school.md)
 
 ### 🌱 Go Green Competition
 
