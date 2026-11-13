@@ -47,8 +47,8 @@ and business understanding to solve real-world problems.
 I am interested in opportunities to grow in data analytics,
 business intelligence, and related fields.
 
-- [GitHub](https://github.com/YOUR-USERNAME)
-- [LinkedIn](YOUR-LINKEDIN-URL)
-- Email: YOUR-EMAIL
+- [GitHub](https://github.com/Xinnn345)
+- [LinkedIn](https://www.linkedin.com/in/lim-deng-xin/)
+- Email: pp
 
 
