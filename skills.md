@@ -88,7 +88,7 @@ The following are the tools and technologies I have explored and applied through
 ### 1. Python
 
 <p align="left">
-  <img src="https://cdn.simpleicons.org/python/3776AB" width="75" alt="Python Logo">
+  <img src="python.png" width="90" alt="Python Logo">
 </p>
 
 **Programming | Data Analysis | Machine Learning**
@@ -114,7 +114,7 @@ Python is one of the main programming languages I use for data analysis and data
 ### 2. Microsoft Excel
 
 <p align="left">
-  <img src="https://cdn.simpleicons.org/microsoftexcel/217346" width="75" alt="Microsoft Excel Logo">
+  <img src="excel.jpeg" width="90" alt="Microsoft Excel Logo">
 </p>
 
 **Data Management | Data Analysis | Data Validation | Reporting**
@@ -141,7 +141,7 @@ I also gained earlier working experience handling sales records and invoices usi
 ### 3. Microsoft Power BI
 
 <p align="left">
-  <img src="https://cdn.simpleicons.org/powerbi/F2C811" width="75" alt="Power BI Logo">
+  <img src="bi.jpeg" width="90" alt="Power BI Logo">
 </p>
 
 **Business Intelligence | Data Visualization | Dashboard Development**
@@ -166,7 +166,7 @@ Power BI is one of the key tools in my data analytics skill set. I have explored
 ### 4. SQL
 
 <p align="left">
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" width="75" alt="SQL and MySQL Logo">
+  <img src="sql.png" width="90" alt="SQL and MySQL Logo">
 </p>
 
 **Database Management | Data Querying | Data Organization**
@@ -191,7 +191,7 @@ SQL is an important part of my data analytics foundation. Through academic learn
 ### 5. R Programming
 
 <p align="left">
-  <img src="https://cdn.simpleicons.org/r/276DC3" width="75" alt="R Programming Logo">
+  <img src="r_p.jpg" width="90" alt="R Programming Logo">
 </p>
 
 **Statistical Computing | Data Analysis | Visualization**
@@ -214,7 +214,7 @@ I have used R programming for statistical analysis, data processing and developi
 ### 6. Google Colab
 
 <p align="left">
-  <img src="https://cdn.simpleicons.org/googlecolab/F9AB00" width="75" alt="Google Colab Logo">
+  <img src="colab.png" width="90" alt="Google Colab Logo">
 </p>
 
 **Cloud-Based Development | Python Programming | Machine Learning**
@@ -239,7 +239,7 @@ Google Colab is one of the development environments I use to write and execute P
 ### 7. Streamlit
 
 <p align="left">
-  <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" width="75" alt="Streamlit Logo">
+  <img src="streamlit.png" width="90" alt="Streamlit Logo">
 </p>
 
 **Interactive Applications | Dashboard Development | Model Integration**
@@ -281,9 +281,9 @@ I have gained programming experience in C through academic learning and practica
 ### 9. GitHub & Visual Studio Code
 
 <p align="left">
-  <img src="https://cdn.simpleicons.org/github/181717" width="65" alt="GitHub Logo">
+  <img src="github.jpg" width="90" alt="GitHub Logo">
   &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" width="65" alt="VS Code Logo">
+  <img src="vs.jpeg" width="90" alt="VS Code Logo">
 </p>
 
 **Development Environment | Version Control | Portfolio Management**
@@ -347,4 +347,4 @@ I look forward to exploring new technologies, developing meaningful projects and
 
 ---
 
-[← Back to Home](README.md)
+[← Back to Previous Page](README.md)
