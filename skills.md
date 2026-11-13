@@ -134,7 +134,7 @@ During my industrial training at Cardas Research & Consulting Group, I used Exce
 
 I also gained earlier working experience handling sales records and invoices using Excel to estimate business profits and losses.
 
-[Explore My Industrial Training →](experiences/crcg.md)
+[Explore My Industrial Training →](experience/crcg.md)
 
 ---
 
