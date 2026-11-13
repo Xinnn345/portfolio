@@ -8,15 +8,17 @@ permalink: /skills/
 
 # Skills & Tools
 
-*A showcase of my technical abilities, analytical knowledge, tools and continuous learning journey in Data Analytics.*
+*A showcase of my technical abilities, analytical knowledge, programming tools and continuous learning journey in Data Analytics.*
 
 ---
 
 ## My Technical Profile
 
-I am an aspiring Data Analyst with an academic background in Bachelor of Applied Science in Data Analytics, passionate about transforming raw data into meaningful insights.
+I am an aspiring Data Analyst pursuing a Bachelor of Applied Science in Data Analytics with Honours at Universiti Malaysia Pahang Al-Sultan Abdullah (UMPSA).
 
-Through academic projects, practical assignments and industrial training, I have developed experience in data analysis, data management, machine learning, data visualization and research support. I enjoy exploring different technologies and applying analytical approaches to solve problems and present data-driven findings.
+With a strong academic foundation and a passion for statistics, programming, data analysis and visualization, I have developed skills in using Microsoft Excel, Python, Power BI and SQL to process, analyze and present data.
+
+Through academic projects, practical assignments and industrial training, I have gained experience in exploratory data analysis, data visualization, data management, statistical analysis and research support. I am particularly interested in transforming raw data into meaningful insights and presenting analytical findings to support informed decision-making.
 
 <p align="center">
   <img src="skills-banner.png" width="850" alt="Skills and Data Analytics Illustration">
@@ -26,49 +28,62 @@ Through academic projects, practical assignments and industrial training, I have
 
 | Area | Focus |
 |:---|:---|
-| Data Analytics | Data Analysis · Data Cleaning · Data Visualization |
-| Programming | Python · R Programming |
-| Data Science | Machine Learning · Deep Learning · NLP |
-| Data Reporting | Excel · Dashboard Development · Data Interpretation |
+| Data Analytics | Data Cleaning · Data Preparation · Exploratory Data Analysis |
+| Data Visualization | Power BI · Excel Charts · Dashboard Development |
+| Programming | Python · R Programming · C Programming |
+| Database & Management | SQL · Database Management · Data Validation |
+| Data Science | Machine Learning · Deep Learning · Natural Language Processing |
+| Research & Reporting | Statistical Analysis · Research Support · Data Interpretation |
 
 ---
 
 ## Technical Skills
 
-A summary of the technical and analytical skills I have developed through academic learning, projects and industrial training.
+A summary of the technical and analytical skills I have developed through academic learning, practical assignments, projects and industrial training.
 
-### Data Analytics & Management
+### Data Analytics & Visualization
 
 - Data Cleaning and Preparation
 - Exploratory Data Analysis (EDA)
 - Data Visualization
 - Statistical Analysis
-- Data Validation and Consistency Checking
+- Dashboard Development
 - Data Interpretation and Reporting
+- Data Validation and Consistency Checking
 
 ### Programming & Data Science
 
 - Python Programming
 - R Programming
-- Machine Learning
-- Deep Learning
+- C Programming
+- Machine Learning (Project-based)
+- Deep Learning (Project-based)
 - Natural Language Processing (NLP)
 - Sentiment Analysis
+
+### Database & Data Management
+
+- SQL
+- Relational Database Concepts
+- Database Management
+- Data Organization and Filtering
+- Data Quality Checking
 
 ### Research & Analytical Skills
 
 - Research Data Collection
 - Market and Industry Research
-- Database Filtering and Management
+- Data Verification and Validation
 - Analytical Thinking
 - Problem Solving
 - Report Preparation
+- Teamwork and Communication
 
 ---
 
 ## Tools & Technologies
 
-The following are the tools and technologies I have explored and applied throughout my academic projects and industrial training.
+The following are the tools and technologies I have explored and applied throughout my academic projects, practical assignments and industrial training.
 
 ### 1. Python
 
@@ -78,17 +93,19 @@ The following are the tools and technologies I have explored and applied through
 
 **Programming | Data Analysis | Machine Learning**
 
-Python is one of the main programming languages I use for data analysis and data science projects. I have applied it to data manipulation, exploratory data analysis, machine learning model development and natural language processing.
+Python is one of the main programming languages I use for data analysis and data science projects. I have applied it to process datasets, perform exploratory data analysis, develop machine learning models and explore natural language processing techniques.
 
 **Areas of Application:**
 - Data processing and manipulation
-- Machine learning and deep learning
+- Exploratory data analysis
+- Machine learning model development
+- Deep learning experiments
 - Sentiment analysis and NLP
 - Data visualization
 
 **Related Projects:**
-- Food Delivery Complaint Risk Detection
-- Sentiment Analysis on Generative AI
+- AI-Based Customer Complaint Risk Detection
+- Sentiment Analysis on Balancing Innovation and Security in Generative AI
 
 [Explore My Projects →](projects.md)
 
@@ -96,29 +113,82 @@ Python is one of the main programming languages I use for data analysis and data
 
 ### 2. Microsoft Excel
 
-<p align="right">
+<p align="left">
   <img src="https://cdn.simpleicons.org/microsoftexcel/217346" width="75" alt="Microsoft Excel Logo">
 </p>
 
-**Data Management | Data Validation | Reporting**
+**Data Management | Data Analysis | Data Validation | Reporting**
 
-I have used Microsoft Excel for organizing, processing and analysing datasets during my academic projects and industrial training. My experience includes performing calculations, preparing charts, checking data consistency and organizing research information.
+Microsoft Excel is one of the tools I frequently use for organizing, processing and analyzing data. I have applied Excel in both academic activities and practical working environments to perform calculations, prepare charts, organize research information and check data consistency.
 
 **Areas of Application:**
 - Data organization and management
-- Calculations and spreadsheet analysis
+- Spreadsheet calculations and analysis
+- Data comparison and verification
 - Chart and report preparation
-- Data checking and consistency validation
+- Data validation and consistency checking
 
 **Practical Experience:**
 
-Industrial Training at Cardas Research & Consulting Group, where I worked on industry research reports, spreadsheet analysis and data checking activities.
+During my industrial training at Cardas Research & Consulting Group, I used Excel to support industry research reports, organize research information, prepare charts and compare data records to ensure accuracy and consistency.
+
+I also gained earlier working experience handling sales records and invoices using Excel to estimate business profits and losses.
 
 [Explore My Industrial Training →](experiences/cardas-internship/)
 
 ---
 
-### 3. R Programming
+### 3. Microsoft Power BI
+
+<p align="left">
+  <img src="https://cdn.simpleicons.org/powerbi/F2C811" width="75" alt="Power BI Logo">
+</p>
+
+**Business Intelligence | Data Visualization | Dashboard Development**
+
+Power BI is one of the key tools in my data analytics skill set. I have explored its application in presenting data through interactive visualizations and dashboards to make information easier to understand and interpret.
+
+**Areas of Application:**
+- Data visualization
+- Dashboard development
+- Analytical result presentation
+- Business and performance reporting
+- Data-driven decision support
+
+**Related Academic Work:**
+- Healthcare Analytics Dashboard
+- Data Visualization and Reporting Projects
+
+[Explore My Projects →](projects.md)
+
+---
+
+### 4. SQL
+
+<p align="left">
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" width="75" alt="SQL and MySQL Logo">
+</p>
+
+**Database Management | Data Querying | Data Organization**
+
+SQL is an important part of my data analytics foundation. Through academic learning and database-related projects, I have explored relational database concepts and the use of SQL for organizing, retrieving and managing structured data.
+
+**Areas of Application:**
+- Relational database concepts
+- Data retrieval and querying
+- Database organization
+- Structured data management
+- Database design and development
+
+**Related Projects:**
+- Paw Track Adoption System: Furever Pet Sanctuary Site
+- Design and Implementation of a Data Warehouse for Healthcare Analytics
+
+[Explore My Projects →](projects.md)
+
+---
+
+### 5. R Programming
 
 <p align="left">
   <img src="https://cdn.simpleicons.org/r/276DC3" width="75" alt="R Programming Logo">
@@ -141,43 +211,45 @@ I have used R programming for statistical analysis, data processing and developi
 
 ---
 
-### 4. Google Colab
+### 6. Google Colab
 
-<p align="right">
+<p align="left">
   <img src="https://cdn.simpleicons.org/googlecolab/F9AB00" width="75" alt="Google Colab Logo">
 </p>
 
-**Cloud-Based Development | Machine Learning**
+**Cloud-Based Development | Python Programming | Machine Learning**
 
-Google Colab is one of the environments I use to write and execute Python code, process datasets and experiment with machine learning models.
+Google Colab is one of the development environments I use to write and execute Python code, process datasets and experiment with analytical and machine learning models.
 
 **Areas of Application:**
 - Python programming
 - Dataset processing
+- Exploratory data analysis
 - Machine learning experiments
 - Model development and evaluation
 
 **Related Projects:**
-- Machine Learning Projects
-- Sentiment Analysis Projects
+- Food Delivery Complaint Risk Detection
+- Sentiment Analysis on Generative AI
 
 [Explore My Projects →](projects.md)
 
 ---
 
-### 5. Streamlit
+### 7. Streamlit
 
 <p align="left">
   <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" width="75" alt="Streamlit Logo">
 </p>
 
-**Interactive Applications | Dashboard Development**
+**Interactive Applications | Dashboard Development | Model Integration**
 
-I have used Streamlit to develop interactive web applications that present analytical results and machine learning outputs in a user-friendly interface.
+I have used Streamlit to develop interactive web applications that present analytical results and machine learning outputs through a user-friendly interface.
 
 **Areas of Application:**
-- Interactive dashboard development
+- Interactive application development
 - Data visualization
+- Dashboard development
 - Machine learning model integration
 - Analytical result presentation
 
@@ -188,15 +260,33 @@ I have used Streamlit to develop interactive web applications that present analy
 
 ---
 
-### 6. GitHub & Visual Studio Code
+### 8. C Programming
 
-<p align="right">
+<p align="left">
+  <img src="https://cdn.simpleicons.org/c/A8B9CC" width="75" alt="C Programming Logo">
+</p>
+
+**Programming Fundamentals | Logical Thinking | Problem Solving**
+
+I have gained programming experience in C through academic learning and practical programming exercises. This has helped me develop foundational programming knowledge and logical problem-solving skills.
+
+**Areas of Application:**
+- Programming fundamentals
+- Logical problem solving
+- Basic algorithm implementation
+- Structured programming
+
+---
+
+### 9. GitHub & Visual Studio Code
+
+<p align="left">
   <img src="https://cdn.simpleicons.org/github/181717" width="65" alt="GitHub Logo">
   &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" width="65" alt="VS Code Logo">
 </p>
 
-**Development Environment | Project Management**
+**Development Environment | Version Control | Portfolio Management**
 
 I use GitHub and Visual Studio Code to organize project files, write and manage code, maintain project repositories and develop my personal portfolio website.
 
@@ -205,6 +295,7 @@ I use GitHub and Visual Studio Code to organize project files, write and manage 
 - Repository management
 - Project documentation
 - Portfolio development using GitHub Pages
+- Organizing academic and personal projects
 
 [Visit My GitHub Profile →](https://github.com/)
 
@@ -250,7 +341,9 @@ Participated in a group competition focused on leveraging data analytics for urb
 
 ## My Learning Journey
 
-Every project, assignment and experience has contributed to my growth in data analytics and technology. I look forward to continuously strengthening my technical abilities, exploring new tools and applying data-driven approaches to real-world challenges.
+Every project, assignment and experience has contributed to my growth in data analytics and technology. Through continuous learning and practical application, I aim to strengthen my programming, analytical and visualization skills.
+
+I look forward to exploring new technologies, developing meaningful projects and applying data-driven approaches to solve real-world problems.
 
 ---
 
