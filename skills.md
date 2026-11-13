@@ -26,10 +26,10 @@ Through academic projects, practical assignments and industrial training, I have
 
 | Area | Focus |
 |:---|:---|
-| 📊 Data Analytics | Data Analysis · Data Cleaning · Data Visualization |
-| 💻 Programming | Python · R Programming |
-| 🧠 Data Science | Machine Learning · Deep Learning · NLP |
-| 📈 Data Reporting | Excel · Dashboard Development · Data Interpretation |
+| Data Analytics | Data Analysis · Data Cleaning · Data Visualization |
+| Programming | Python · R Programming |
+| Data Science | Machine Learning · Deep Learning · NLP |
+| Data Reporting | Excel · Dashboard Development · Data Interpretation |
 
 ---
 
@@ -37,7 +37,7 @@ Through academic projects, practical assignments and industrial training, I have
 
 A summary of the technical and analytical skills I have developed through academic learning, projects and industrial training.
 
-### 📊 Data Analytics & Management
+### Data Analytics & Management
 
 - Data Cleaning and Preparation
 - Exploratory Data Analysis (EDA)
@@ -46,7 +46,7 @@ A summary of the technical and analytical skills I have developed through academ
 - Data Validation and Consistency Checking
 - Data Interpretation and Reporting
 
-### 💻 Programming & Data Science
+### Programming & Data Science
 
 - Python Programming
 - R Programming
@@ -55,7 +55,7 @@ A summary of the technical and analytical skills I have developed through academ
 - Natural Language Processing (NLP)
 - Sentiment Analysis
 
-### 📈 Research & Analytical Skills
+### Research & Analytical Skills
 
 - Research Data Collection
 - Market and Industry Research
