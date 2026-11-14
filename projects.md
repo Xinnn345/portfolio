@@ -3,7 +3,7 @@
 Projects
 ---
 
-[Home](README.md) | [Experience](experience.md) | [Skills](skills.md)
+[Home](index.md) | [Experience](experience.md) | [Skills](skills.md)
 
 # My Projects
 
@@ -141,5 +141,5 @@ Explore my selected projects showcasing my skills in data analytics, machine lea
 
 </br>
 
-[Back to Previous Page](README.md)
+[Back to Previous Page](index.md)
 
