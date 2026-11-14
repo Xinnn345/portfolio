@@ -5,7 +5,8 @@ title: Home
 
 <div class="hero-section">
 
-<p class="hero-eyebrow">DATA ANALYTICS · BUSINESS INTELLIGENCE</p>
+<p class="hero-eyebrow">DATA ANALYTICS · BUSINESS INTELLIGENCE
+</p>
 
 # Hello, I'm Lily!
 
