@@ -4,7 +4,7 @@ title: Chinese Government Scholarship International Summer School
 permalink: /experience/hebei-summer-school/
 ---
 
-[Home](README.md) | [Projects](projects.md) | [Skills](skills.md)
+[Home](../README.md) | [Projects](../projects.md) | [Skills](../skills.md)
 
 # Chinese Government Scholarship International Summer School
 
@@ -246,4 +246,4 @@ grow through this international exchange.
 
 ---
 
-[← Back to Previous Page](experiece.md)
+[← Back to Previous Page](../experiece.md)
