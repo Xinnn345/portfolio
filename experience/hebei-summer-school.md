@@ -8,6 +8,10 @@ permalink: /experience/hebei-summer-school/
 
 # Chinese Government Scholarship International Summer School
 
+<p align="center">
+  <img src="../hebei.jpeg" width="800">
+</p>
+
 ### An International Academic and Cultural Experience at Hebei University
 
 **Location:** Baoding, Hebei, China
@@ -51,7 +55,7 @@ cultural discovery, and personal growth.
 
 ---
 
-## 01. Academic Learning
+## 1. Academic Learning
 
 ### Exploring Data, Technology and Digital Transformation
 
@@ -99,7 +103,7 @@ to understanding real-world challenges across industries.
 
 ---
 
-## 02. Cultural Exploration
+## 2. Cultural Exploration
 
 ### Discovering Traditional Chinese Culture
 
@@ -145,7 +149,7 @@ and openness to different perspectives.
 
 ---
 
-## 03. A Memorable Milestone
+## 3. A Memorable Milestone
 
 ### Delivering the Closing Speech
 
@@ -171,7 +175,7 @@ knowledge and technical abilities.
 
 ---
 
-## 04. Skills and Personal Development
+## 4. Skills and Personal Development
 
 The summer school contributed to my personal development
 in several ways.
@@ -204,7 +208,7 @@ and reflected on how different fields of knowledge connect.
 
 ---
 
-## 05. Reflection
+## 5. Reflection
 
 ### Learning Beyond the Classroom
 
