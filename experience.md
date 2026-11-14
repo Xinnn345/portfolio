@@ -3,7 +3,7 @@
 Experience
 ---
 
-[Home](README.md) | [About Me](about.md) | [Projects](projects.md) | [Skills](skills.md)
+[Home](README.md) | [Projects](projects.md) | [Skills](skills.md)
 
 # My Experiences
 
