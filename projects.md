@@ -3,7 +3,7 @@
 Projects
 ---
 
-[Home](README.md) | [About Me](about.md) | [Experience](experience.md) | [Skills](skills.md)
+[Home](README.md) | [Experience](experience.md) | [Skills](skills.md)
 
 # My Projects
 
