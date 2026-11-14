@@ -480,7 +480,7 @@ My interests extend beyond traditional data analysis to business intelligence, m
 
 </div>
 
-[Explore My Technical Skills →](skills.md)
+[Explore My Technical Skills →](skills.html)
 
 ---
 
@@ -528,7 +528,7 @@ I apply my technical knowledge through academic and personal projects involving 
 
 </div>
 
-[View All Projects →](projects.md)
+[View All Projects →](projects.html)
 
 ---
 
@@ -547,7 +547,7 @@ Key areas of involvement:
 - Data verification and consistency checking.
 - Industry information research and report preparation.
 
-[Explore My Industrial Training →](experience/crcg.md)
+[Explore My Industrial Training →](experience/crcg.html)
 
 ### International Academic Experience
 
@@ -557,7 +557,7 @@ Hebei University, China | 2025
 
 Participated in an international academic and cultural exchange programme, gaining exposure to Big Data, Artificial Intelligence, Digital Finance, Data Analytics, E-commerce and Digitalisation.
 
-[Explore My International Experience →](experience/hebei-summer-school.md)
+[Explore My International Experience →](experience/hebei-summer-school.html)
 
 ---
 
