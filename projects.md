@@ -88,12 +88,12 @@ Explore my selected projects showcasing my skills in data analytics, machine lea
 ![Data Warehousing](https://img.shields.io/badge/Data_Warehousing-3574A5?style=flat-square)
 
 **Key components**
-- Data preprocessing, cleaning, and predictive model development (need to be updated)
-- Model performance evaluation and analytical interpretation
-- Interactive Streamlit application and dashboard development
-- Predictive analytics and spatial analysis of crime distribution
+- Healthcare data preprocessing, cleaning, and ETL pipeline development
+- Snowflake Schema design with fact and dimension tables
+- SQL-based OLAP operations for multidimensional data analysis
+- Interactive Power BI dashboard development and healthcare insights visualization
 
-**Technologies:** Python, Pandas, LightGBM Model, Streamlit
+**Technologies:** Python, Pandas, Google Colab, PostgreSQL, Power BI
 
 [View Full Case Study](projects/healthcare.md)
 
@@ -108,12 +108,12 @@ Explore my selected projects showcasing my skills in data analytics, machine lea
 ![Website Design](https://img.shields.io/badge/Website_Design-668B83?style=flat-square)
 
 **Key components**
-- Data preprocessing, cleaning, and predictive model development (need to be updated)
-- Model performance evaluation and analytical interpretation
-- Interactive Streamlit application and dashboard development
-- Predictive analytics and spatial analysis of crime distribution
+- Database design and organization for pet and adoption information
+- Website structure and content organization
+- User-friendly interface design to simulate real-world pet sanctuary operations
+- Adoption information, donation, volunteer, and communication features
 
-**Technologies:** Python, Pandas, LightGBM Model, Streamlit
+**Technologies:** Google Sites, Google Forms
 
 [View Full Case Study](projects/paw-track.md)
 
@@ -128,12 +128,12 @@ Explore my selected projects showcasing my skills in data analytics, machine lea
 ![Game Development](https://img.shields.io/badge/Game_Development-91AEC4?style=flat-square)
 
 **Key components**
-- Data preprocessing, cleaning, and predictive model development (need to be updated)
-- Model performance evaluation and analytical interpretation
-- Interactive Streamlit application and dashboard development
-- Predictive analytics and spatial analysis of crime distribution
+- Independent game development using visual programming
+- Scratch programming logic and interactive gameplay design
+- Implementation of game elements to communicate sustainable urban planning concepts
+- Team collaboration in developing a competition website
 
-**Technologies:** Python, Pandas, LightGBM Model, Streamlit
+**Technologies:** Scratch, Google Sites
 
 [View Full Case Study](projects/urban-game.md)
 
