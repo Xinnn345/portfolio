@@ -28,10 +28,6 @@ permalink: /experience/hebei-summer-school/
 
 ## Overview
 
-<p align="center">
-  <img src="complete.jpeg" width="680">
-</p>
-
 During my industrial training at Cardas Research & Consulting Group (CRCG), I have had the opportunity to gain practical experience in different areas of market research and research operations. Throughout the internship, I have been exposed to three main departments: Consumer Research, Industry Research and Mystery Shopping.
 
 My responsibilities involve collecting research information, organising and reviewing data, supporting industry report preparation, verifying data consistency, and assisting with shopper screening and coordination. These activities have allowed me to understand how research information is collected, processed, checked and prepared to support business and client decision-making.
@@ -76,10 +72,6 @@ In the Industry Research Department, I was involved in supporting the preparatio
 
 The tasks provided opportunities to work with industry-related information and understand how collected data is transformed into organised findings for research reports.
 
-<p align="center">
-  <img src="papercut.jpeg" width="680">
-</p>
-
 **Key Responsibilities**
 
 - Collected and organised relevant information from different sources for industry research.
@@ -108,13 +100,13 @@ My experience in the Mystery Shopping Department involved two main areas: data v
 
 These activities provided exposure to both the data quality checking process and the operational preparation required for mystery shopping projects.
 
-<p align="center">
-  <img src="speech.jpeg" width="680">
-</p>
-
 ### 3.1. Data Verification and Quality Checking
 
 One of my responsibilities was to review and verify the consistency of information between the company's system records and individual mystery shopping reports.
+
+<p align="center">
+  <img src="check.jpeg" width="300">
+</p>
 
 The purpose of this task was to ensure that the information recorded in the system matched the corresponding details in the reports.
 
@@ -138,6 +130,10 @@ Through repeated checking activities, I improved my attention to detail, ability
 ### 3.2 Shopper Screening and Coordination
 
 Apart from data verification, I was also involved in screening and contacting potential shoppers for mystery shopping assignments, particularly for financial services-related projects.
+
+<p align="center">
+  <img src="call.jpeg" width="300">
+</p>
 
 The process involved identifying suitable shoppers based on the project requirements and ensuring that their profiles and availability were appropriate for the assigned locations.
 
@@ -226,11 +222,6 @@ I would like to express my sincere appreciation to Cardas Research & Consulting 
 I am also grateful to my supervisor, project leaders and colleagues for their guidance, support and willingness to share their knowledge throughout my training.
 
 Their assistance has helped me understand the working environment of the research industry and develop skills that will be valuable for my future academic and professional journey.
-
-<p align="center">
-  <img src="me.jpeg" width="38%" />
-  <img src="withdr.jpeg" width="38%" />
-</p>
 
 ---
 
