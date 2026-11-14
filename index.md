@@ -11,15 +11,17 @@ title: Home
 
 ## Aspiring Data Analyst | Turning Data into Insights
 
-I am a Data Analytics undergraduate at **Universiti Malaysia Pahang Al-Sultan Abdullah (UMPSA)**, passionate about transforming data into meaningful insights that support better decision-making.
+I am a Data Analytics undergraduate at **Universiti Malaysia Pahang Al-Sultan Abdullah (UMPSA)**, passionate about transforming data into clear findings that help people understand problems and make better decisions.
 
-With a strong academic foundation and hands-on experience through academic projects and research support, I have developed skills in **SQL, Python, Microsoft Excel and Power BI**.
+My experience combines hands-on market research during my internship at Cardas Research & Consulting Group, developed skills in **Python, SQL, Excel and Power BI** through various projects. From checking research records during my internship to analysing business performance through independent projects, I enjoy working through the full data process — from raw information to meaningful insights.
 
-I enjoy exploring datasets, identifying patterns, solving analytical problems and presenting findings in a clear and meaningful way. I am continuously learning and looking for opportunities to apply my analytical skills to real-world challenges.
+I am currently developing my skills in data analytics, with an interest in applying data to real-world business challenges.
 
 <div class="hero-buttons">
 
 <a href="projects.html" class="primary-button">Explore My Projects →</a>
+
+</div>
 
 <a href="experience.html" class="secondary-button">View My Experience</a>
 
@@ -53,3 +55,14 @@ I enjoy exploring datasets, identifying patterns, solving analytical problems an
 </div>
 
 </div>
+
+
+## Professional Highlights
+
+---
+
+## Let's Connect
+
+I am open to connecting with professionals, learning from industry experiences and exploring opportunities in Data Analytics.
+
+[GitHub](https://xinnn345.github.io/) | [LinkedIn]() | [Email]() | [Resume]()
