@@ -26,6 +26,10 @@ permalink: /experience/hebei-summer-school/
 
 ## Overview
 
+<p align="center">
+  <img src="complete.jpeg" width="680">
+</p>
+
 In July and August 2025, I had the opportunity to participate
 in the Chinese Government Scholarship International Summer
 School at Hebei University in Baoding, China.
@@ -113,10 +117,9 @@ These experiences allowed me to explore traditions beyond
 textbooks and develop a greater appreciation for China's
 cultural heritage.
 
-**Chinese Calligraphy**
-
-Explored traditional Chinese writing as an artistic practice
-that combines language, technique, and cultural expression.
+<p align="center">
+  <img src="papercut.jpeg" width="680">
+</p>
 
 **Chinese Paper Cutting**
 
@@ -139,13 +142,20 @@ wellbeing within Chinese cultural heritage.
 Explored a traditional performing art that brings together
 music, movement, costumes, and storytelling.
 
+**Chinese Calligraphy**
+
+Explored traditional Chinese writing as an artistic practice
+that combines language, technique, and cultural expression.
+
+<p align="center">
+  <img src="calli.jpeg" width="250">
+</p>
+
 These activities made the programme especially memorable
 because they offered opportunities to learn through observation
 and participation. They also reminded me that cultural
 understanding develops through direct experience, curiosity,
 and openness to different perspectives.
-
-<!-- Optional: Add a cultural-activities photograph below. -->
 
 ---
 
@@ -156,6 +166,10 @@ and openness to different perspectives.
 One of the most meaningful moments of my summer school
 experience was being given the opportunity to deliver
 the closing speech.
+
+<p align="center">
+  <img src="speech.jpeg" width="680">
+</p>
 
 Speaking in front of an audience challenged me to organise
 my thoughts, communicate my message clearly, and present
@@ -170,8 +184,6 @@ I am grateful for this opportunity because it encouraged
 me to step outside my comfort zone and recognise the
 importance of communication skills alongside academic
 knowledge and technical abilities.
-
-<!-- Optional: Add a photograph from the closing ceremony. -->
 
 ---
 
@@ -233,6 +245,11 @@ This experience encouraged me to continue developing both
 my technical and interpersonal skills as I prepare for
 future academic and professional opportunities.
 
+<p align="center">
+  <img src="tq2.jpeg" width="30%" />
+  <img src="tq1.jpeg" width="50%" />
+</p>
+
 ---
 
 ## Acknowledgements
@@ -247,6 +264,11 @@ and my fellow participants for sharing this meaningful experience.
 
 I am grateful for the opportunity to learn, explore, and
 grow through this international exchange.
+
+<p align="center">
+  <img src="me.jpeg" width="38%" />
+  <img src="withdr.jpeg" width="38%" />
+</p>
 
 ---
 
