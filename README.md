@@ -94,7 +94,7 @@ My responsibilities included research data collection, Excel-based data organiza
 
 This experience helped me understand how data accuracy and reliable research information contribute to business and research decision-making.
 
-[Explore My Industrial Training →](experiences/cardas-internship/)
+[Explore My Industrial Training →](experience/crcg.md)
 
 ### International Academic & Cultural Experience
 
@@ -104,7 +104,7 @@ Hebei University, China | 2025
 
 Participated in an international academic and cultural exchange programme, gaining exposure to Big Data, Artificial Intelligence, Digital Finance, Data Analytics, E-commerce and Digitalization.
 
-[Explore This Experience →](experience/hebei-summer-school/)
+[Explore This Experience →](experience/hebei-summer-school.md)
 
 ---
 
