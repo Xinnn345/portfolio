@@ -36,7 +36,7 @@ Through these assignments, I have gained practical experience in data collection
 - Data checking and report consistency
 - Database management and project support
 
-[Explore This Experience →](experiences/cardas-internship/)
+[Explore This Experience →](experience/crcg.md)
 
 ---
 
@@ -60,7 +60,7 @@ Beyond the classroom, I explored traditional Chinese culture, participated in cu
 - Communication and public speaking experience
 - Personal growth and cross-cultural awareness
 
-[Explore This Experience →](experience/hebei-summer-school/)
+[Explore This Experience →](experience/hebei-summer-school.md)
 
 ---
 
