@@ -4,7 +4,7 @@ title: Chinese Government Scholarship International Summer School
 permalink: /experience/hebei-summer-school/
 ---
 
-[Home]({{ '/' | relative_url }}) | [Experience]({{ '/experience/' | relative_url }})
+[Home](README.md) | [Projects](projects.md) | [Skills](skills.md)
 
 # Chinese Government Scholarship International Summer School
 
@@ -246,15 +246,4 @@ grow through this international exchange.
 
 ---
 
-## Programme Details
-
-- **Programme:** Chinese Government Scholarship International Summer School
-- **Host Institution:** Hebei University
-- **Location:** Baoding, Hebei, China
-- **Dates:** 25 July – 10 August 2025
-- **Accompanying Lecturer:** Tay Chai Jian
-- **Supporting Centre:** Centre for Mathematical Sciences (PSM)
-
----
-
-[← Back to All Experiences]({{ '/experience/' | relative_url }})
+[← Back to Previous Page](experiece.md)
