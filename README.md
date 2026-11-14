@@ -3,7 +3,219 @@
 title: Home
 ---
 
-<div class="hero-section">
+<style>
+:root {
+  --navy: #142B45;
+  --teal: #267C78;
+  --pale-teal: #D9ECE8;
+  --light-bg: #F3F6F8;
+  --white: #FFFFFF;
+  --text: #344456;
+  --muted: #68798A;
+}
+
+body {
+  color: var(--text);
+  font-family: Arial, Helvetica, sans-serif;
+  line-height: 1.75;
+}
+
+h1, h2, h3 {
+  color: var(--navy);
+  line-height: 1.3;
+}
+
+h2 {
+  margin-top: 35px;
+  margin-bottom: 18px;
+}
+
+a {
+  color: var(--teal);
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.hero-section {
+  background: linear-gradient(135deg, #142B45, #267C78);
+  color: white;
+  padding: 55px 40px;
+  border-radius: 18px;
+  margin: 20px 0 35px;
+}
+
+.hero-section h1,
+.hero-section h2,
+.hero-section p {
+  color: white;
+}
+
+.hero-section h1 {
+  font-size: 42px;
+  margin: 15px 0 5px;
+}
+
+.hero-section h2 {
+  font-size: 23px;
+  font-weight: normal;
+  margin: 0 0 20px;
+}
+
+.hero-eyebrow {
+  letter-spacing: 2px;
+  font-size: 12px;
+  font-weight: bold;
+  color: #D9ECE8 !important;
+}
+
+.hero-buttons,
+.contact-buttons {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  margin-top: 25px;
+}
+
+.primary-button,
+.secondary-button,
+.contact-button {
+  display: inline-block;
+  padding: 11px 20px;
+  border-radius: 8px;
+  font-weight: bold;
+  text-decoration: none !important;
+}
+
+.primary-button {
+  background: white;
+  color: var(--navy) !important;
+}
+
+.secondary-button {
+  border: 1px solid white;
+  color: white !important;
+}
+
+.primary-button:hover,
+.secondary-button:hover,
+.contact-button:hover {
+  opacity: 0.82;
+}
+
+.highlight-grid {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 15px;
+  margin: 20px 0 35px;
+}
+
+.highlight-card {
+  background: var(--light-bg);
+  border: 1px solid #E1E8ED;
+  border-radius: 12px;
+  padding: 20px 12px;
+  text-align: center;
+}
+
+.highlight-card h2 {
+  color: var(--teal);
+  font-size: 23px;
+  margin: 0 0 8px;
+}
+
+.highlight-card p {
+  color: var(--muted);
+  margin: 0;
+  font-size: 14px;
+}
+
+.skill-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 16px;
+  margin: 20px 0;
+}
+
+.skill-card {
+  background: var(--white);
+  border: 1px solid #E1E8ED;
+  border-left: 4px solid var(--teal);
+  border-radius: 10px;
+  padding: 20px;
+}
+
+.skill-card h3 {
+  margin-top: 0;
+  font-size: 18px;
+}
+
+.skill-card p {
+  margin-bottom: 0;
+}
+
+.project-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 16px;
+  margin: 20px 0;
+}
+
+.project-card {
+  background: var(--light-bg);
+  border: 1px solid #E1E8ED;
+  border-radius: 12px;
+  padding: 20px;
+}
+
+.project-card h3 {
+  margin-top: 0;
+  font-size: 18px;
+}
+
+.project-card a {
+  font-weight: bold;
+}
+
+.contact-button {
+  background: var(--navy);
+  color: white !important;
+}
+
+.footer-message {
+  text-align: center;
+  color: var(--teal);
+  font-style: italic;
+  font-weight: bold;
+  margin-top: 40px;
+  padding: 20px;
+  background: var(--light-bg);
+  border-radius: 10px;
+}
+
+@media (max-width: 700px) {
+  .hero-section {
+    padding: 35px 22px;
+  }
+
+  .hero-section h1 {
+    font-size: 32px;
+  }
+
+  .highlight-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .skill-grid,
+  .project-grid {
+    grid-template-columns: 1fr;
+  }
+}
+</style>
+
+<div class="hero-section" markdown="1">
 
 <p class="hero-eyebrow">DATA ANALYTICS · BUSINESS INTELLIGENCE
 </p>
