@@ -4,7 +4,7 @@ title: Skills & Tools
 permalink: /skills/
 ---
 
-[Home](README.md) | [About Me](about.md) | [Projects](projects.md) | [Experiences](experience.md)
+[Home](README.md) | [Projects](projects.md) | [Experiences](experience.md)
 
 # Skills & Tools
 
