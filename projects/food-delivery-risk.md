@@ -1,11 +1,11 @@
 
 ---
-title: An AI-Driven Big Data and Deep Learning Framework for Complaint Detection and Risk Severity Assessment on Online Food Delivert Platforms 
+title: An AI-Driven Big Data and Deep Learning Framework for Complaint Detection and Risk Severity Assessment on Online Food Delivery Platforms 
 ---
 
 [Home](../index.md) | [All Projects](../projects.md)
 
-# An AI-Driven Big Data and Deep Learning Framework for Complaint Detection and Risk Severity Assessment on Online Food Delivert Platforms 
+# An AI-Driven Big Data and Deep Learning Framework for Complaint Detection and Risk Severity Assessment on Online Food Delivery Platforms 
 
 <p align="center">
   <img src="../food.png" width="950">
