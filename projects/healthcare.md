@@ -1,5 +1,5 @@
 ---
-title: Analyzing Crime Distribution and Prevention Strategies in MalaysiaDesign and Implementation of a Data Warehouse for Healthcare Analytics to Support Public Health Decision-Making
+title: Design and Implementation of a Data Warehouse for Healthcare Analytics to Support Public Health Decision-Making
 ---
 
 [Home](../index.md) | [All Projects](../projects.md)
@@ -67,7 +67,9 @@ Oncology recorded the highest average patient severity score (76.53), while Derm
 
 ## Project Links
 
-[Kaggle Dataset](https://www.kaggle.com/datasets/mebrar21/medsynora-dw) · [Power BI Dashboard](https://app.powerbi.com/groups/me/reports/13b84049-c3e3-4117-b632-c26d0f34e292/898b0529773db4b5052a?experience=power-bi)
+[Kaggle Dataset](https://www.kaggle.com/datasets/mebrar21/medsynora-dw) · [Power BI Dashboard](https://app.powerbi.com/groups/me/reports/13b84049-c3e3-4117-b632-c26d0f34e292/898b0529773db4b5052a?experience=power-bi) · [Report](https://drive.google.com/drive/folders/1_M8T7o6MM9HbJ97X0psHfxKix0492F1G)
+
+---
 
 </div>
 
