@@ -28,7 +28,9 @@ This project explores sustainable urban planning, smart-city development, and re
 
 ---
 
-## 1. Individual Game Development
+## My Contributions
+
+### 1. Individual Game Development
 
 <p align="center">
   <img src="../urban-game.png" width="950">
@@ -36,7 +38,7 @@ This project explores sustainable urban planning, smart-city development, and re
 
 Independently designed and developed an interactive game using Scratch, applying programming logic and interactive elements to create a playable experience. This project allowed me to explore basic game development concepts, creativity, and problem-solving through visual programming.
 
-## 2. Project Website
+### 2. Project Website
 Collaborated with team members to develop a Google Sites website presenting the competition concept, Metropolis Maker, and its focus on sustainable and resilient urban development.
 
 ---
