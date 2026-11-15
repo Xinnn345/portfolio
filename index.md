@@ -26,7 +26,10 @@ I am currently developing my skills in data analytics, with an interest in apply
 <a href="experience.html" class="secondary-button">View My Experience</a>
 
 </div>
-</div>
+
+---
+
+## Professional Highlights
 
 <div class="highlight-section">
 
@@ -56,10 +59,8 @@ I am currently developing my skills in data analytics, with an interest in apply
 
 </div>
 
-
-## Professional Highlights
-
 ---
+
 
 ## Let's Connect
 
