@@ -25,9 +25,9 @@ Industrial Training
 
 ## About My Experience
 
-Working across Consumer Research, Industry Research and Mystery Shopping, I gained practical experience in market research, data collection, information verification and research reporting.
+During my industrial training at Cardas Research & Consulting Group (CRCG), I worked across Consumer Research, Industry Research and Mystery Shopping, I gained practical experience in market research, data collection, information verification and research reporting.
 
-This experience helped me understand how accurate and well-organised data supports research quality and business decisions.
+This experience helped me understand how accurate and well-organised data supports research quality and business decisions. Beyond technical tasks, the internship has also provided opportunities to improve my communication, problem-solving, teamwork and time-management skills through collaboration with colleagues and different project leaders.
 
 ---
 
@@ -69,9 +69,9 @@ Microsoft Excel · Data Collection · Data Validation · Research Reporting · I
 
 ## What I Gained
 
-My internship strengthened my understanding of the importance of data accuracy before analysis begins.
+Throughout the internship at **Cardas Research & Consulting Group (CRCG)**, I gained practical experience in **data collection, data organisation, record verification, and research support**. One of my key takeaways was understanding that reliable data analytics begins with accurate data collection and proper validation before analysis can take place.
 
-I also learned how research information is collected, checked and organised, and how clear communication supports reliable research work.
+The experience also strengthened my **attention to detail, communication, and teamwork skills**. Working with different colleagues and project leaders taught me to manage assigned tasks and adapt to different project needs. This internship broadened my understanding on how data quality and effective collaboration contribute to final reliable research outcomes.
 
 ---
 
@@ -79,10 +79,10 @@ I also learned how research information is collected, checked and organised, and
 
 I would like to express my sincere appreciation to Cardas Research & Consulting Group for providing me with the opportunity to undertake my industrial training and gain practical workplace experience.
 
-I am also grateful to my supervisor, project leaders and colleagues for their guidance, support and willingness to share their knowledge throughout my training.
+I am also grateful to my supervisor, **Mr. Jim**, project leaders and colleagues for their guidance, support and willingness to share their knowledge throughout my training.
 
 Their assistance has helped me understand the working environment of the research industry and develop skills that will be valuable for my future academic and professional journey.
 
 ---
 
-[← Back to Previous Page](../experience.md)
+[← Back to Experience](../experience.md)
