@@ -1,18 +1,26 @@
 ---
 title: Analyzing Crime Distribution and Prevention Strategies in MalaysiaDesign and Implementation of a Data Warehouse for Healthcare Analytics to Support Public Health Decision-Making
-permalink: /projects/food-delivery-risk/
 ---
 
-[Home](../README.md) | [All Projects](../projects.md)
+[Home](../index.md) | [All Projects](../projects.md)
 
 # Design and Implementation of a Data Warehouse for Healthcare Analytics to Support Public Health Decision-Making
+
 <p align="center">
   <img src="../health.png" width="950">
 </p>
 
+**Tools:** PostgreSQL, Python, Power BI, Canva
+
+---
+
 ## Project Overview
 
-This project focuses on designing and implementing a healthcare data warehouse to integrate, organize, and analyse electronic medical record (EMR) data. The system applies data warehousing concepts to support healthcare analytics, improve data accessibility, and provide insights into patient conditions, medical treatments, and healthcare resource utilization.
+This project focuses on designing and implementing a healthcare data warehouse to integrate, organize, and analyse electronic medical record (EMR) data. 
+
+The system applies data warehousing concepts to support healthcare analytics, improve data accessibility, and provide insights into patient conditions, medical treatments, and healthcare resource utilization.
+
+---
 
 ## Objectives
 
@@ -20,16 +28,7 @@ This project focuses on designing and implementing a healthcare data warehouse t
 2. To develop an ETL pipeline to extract, transform, validate, and load healthcare datasets into a centralized database.
 3. To apply SQL-based OLAP operations and Power BI visualizations to analyse healthcare trends and support data-driven decision-making.
 
-## Tools and Technologies
-
-- Python (Pandas)
-- Google Colab
-- PostgreSQL / pgAdmin 4
-- SQL
-- Power BI
-- Snowflake Schema
-- ETL (Extract, Transform, Load)
-- OLAP (Online Analytical Processing)
+---
 
 ## Methodology
 
@@ -51,6 +50,8 @@ Applied five OLAP operations using SQL in pgAdmin 4: Roll-up, Drill-down, Slicin
 ### 6. Data Visualization and Dashboard Development
 Developed an interactive Power BI dashboard to present healthcare insights for 2024. Included key performance indicators, patient encounter trends, disease distributions, treatment records, room utilization, vital statistics, and patient severity analysis, with filters for month, gender, and insurance plan.
 
+---
+
 ## Key Findings
 
 ### 1. Healthcare Data Overview
@@ -62,5 +63,12 @@ Internal Medicine recorded the highest number of patient encounters among the di
 ### 3. Healthcare Cost and Severity Analysis
 Oncology recorded the highest average patient severity score (76.53), while Dermatology recorded the lowest (50.41). The dashboard also presented treatment costs and patient severity across disease categories to support healthcare resource planning.
 
+---
 
-[Back to Previous Page](../projects.md)
+## Project Links
+
+[Kaggle Dataset](https://www.kaggle.com/datasets/mebrar21/medsynora-dw) · [Power BI Dashboard](https://app.powerbi.com/groups/me/reports/13b84049-c3e3-4117-b632-c26d0f34e292/898b0529773db4b5052a?experience=power-bi)
+
+</div>
+
+[Back to Projects](../projects.md)
