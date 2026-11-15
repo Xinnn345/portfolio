@@ -52,5 +52,7 @@ Gained practical experience in independent game development using Scratch, visua
 
 [Live Scratch Game](https://scratch.mit.edu/projects/1158383038) · [Live Google Site Website](https://sites.google.com/view/smart-city-insight/metropolis-maker?pli=1&authuser=0)
 
+---
+
 
 [Back to Projects](../projects.md)
