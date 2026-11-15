@@ -1,41 +1,77 @@
 
 ---
-title: Skills & Tools
-permalink: /skills/
+title: Skills & Technical Expertise
 ---
 
 [Home](index.md) | [Projects](projects.md) | [Experiences](experience.md)
 
-# Skills & Tools
+# Skills & Technical Expertise
 
-*A showcase of my technical abilities, analytical knowledge, programming tools and continuous learning journey in Data Analytics.*
+My technical skills combine data analysis, programming, business intelligence and research. I focus on applying these tools to prepare data, identify patterns and communicate useful findings.
 
 ---
 
-## My Technical Profile
+## 1. Data Analytics
 
-I am an aspiring Data Analyst pursuing a Bachelor of Applied Science in Data Analytics with Honours at Universiti Malaysia Pahang Al-Sultan Abdullah (UMPSA).
-
-With a strong academic foundation and a passion for statistics, programming, data analysis and visualization, I have developed skills in using Microsoft Excel, Python, Power BI and SQL to process, analyze and present data.
-
-Through academic projects, practical assignments and industrial training, I have gained experience in exploratory data analysis, data visualization, data management, statistical analysis and research support. I am particularly interested in transforming raw data into meaningful insights and presenting analytical findings to support informed decision-making.
-
-<p align="center">
-  <img src="skills-banner.png" width="850" alt="Skills and Data Analytics Illustration">
+<p align="left">
+  <img src="excel.jpeg" width="80">
+  &nbsp;&nbsp;
+  <img src="bi.jpeg" width="60">
+  &nbsp;&nbsp;
+  <img src="sql.png" width="60">
 </p>
 
-### My Key Areas
+- Data cleaning and preparation
+- Exploratory Data Analysis (EDA)
+- Statistical analysis
+- Data visualization and reporting
+- Dashboard development
+- KPI analysis and performance reporting
 
-| Area | Focus |
-|:---|:---|
-| Data Analytics | Data Cleaning · Data Preparation · Exploratory Data Analysis |
-| Data Visualization | Power BI · Excel Charts · Dashboard Development |
-| Programming | Python · R Programming · C Programming |
-| Database & Management | SQL · Database Management · Data Validation |
-| Data Science | Machine Learning · Deep Learning · Natural Language Processing |
-| Research & Reporting | Statistical Analysis · Research Support · Data Interpretation |
+## 2. Programming & Analytical Tools
 
----
+<p align="left">
+  <img src="python.png" width="60">
+  &nbsp;&nbsp;
+  <img src="r_p.jpg" width="90">
+   &nbsp;&nbsp;
+  <img src="colab.png" width="90">
+   &nbsp;&nbsp;
+  <img src="vs.jpeg" width="60">
+</p>
+
+- Data processing
+- Machine learning model development
+- Model evaluation
+- Sentiment analysis
+
+## 3. Database Management
+<p align="left">
+  <img src="excel.jpeg" width="80">
+  &nbsp;&nbsp;
+  <img src="sql.png" width="60">
+</p>
+
+- SQL querying and data retrieval
+- Relational database management
+- ETL and data warehousing concepts
+
+## 4. Development & Reporting Tools
+<p align="left">
+  <img src="streamlit.png" width="60">
+  &nbsp;&nbsp;
+  <img src="github.jpg" width="70">
+   &nbsp;&nbsp;
+  <img src="point.jpeg" width="60">
+   &nbsp;&nbsp;
+  <img src="canva.jpeg" width="60">
+</p>
+
+- Application development
+- Website development
+- Business intelligence reporting
+
+
 
 ## Technical Skills
 
