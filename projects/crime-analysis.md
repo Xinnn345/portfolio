@@ -1,15 +1,19 @@
 
 ---
 title: Analyzing Crime Distribution and Prevention Strategies in Malaysia
-permalink: /projects/food-delivery-risk/
 ---
 
-[Home](../README.md) | [All Projects](../projects.md)
+[Home](../index.md) | [All Projects](../projects.md)
 
 # Analyzing Crime Distribution and Prevention Strategies in Malaysia
+
 <p align="center">
   <img src="../crime.png" width="950">
 </p>
+
+**Tools:** PostgreSQL, Python, Power BI, Streamlit
+
+---
 
 ## Project Overview
 
@@ -17,23 +21,17 @@ This project applies data analytics and machine learning to analyze crime distri
 
 Using historical crime statistics and socioeconomic data from OpenDOSM, the study develops predictive models to identify crime patterns and generate insights that can support evidence-based crime prevention strategies.
 
+---
+
 ## Objectives
 
 1. To analyze crime distribution and trends across Malaysian states and years.
 2. To examine relationships between crime rates and socioeconomic indicators, including household income, unemployment and education completion rates.
 3. To develop machine learning models to predict crime distribution and provide data-driven insights for crime prevention and policy planning.
 
-## Tools and Technologies
+---
 
-- **Programming:** Python
-- **Database:** PostgreSQL
-- **Data Analysis:** Pandas, NumPy
-- **Data Visualization:** Matplotlib, Seaborn
-- **Machine Learning:** Scikit-learn, XGBoost, CatBoost, LightGBM
-- **Model Deployment:** Streamlit, Power BI
-- **Development Environment:** Google Colab
-
-## Methodology
+## My Approach
 
 ### 1. Dataset Collection and Integration
 Collected four datasets from OpenDOSM, covering crime statistics, household income, annual labour force statistics and school completion rates in Malaysia. The datasets cover different time periods, with the main crime dataset spanning 2016–2023.
@@ -70,7 +68,7 @@ Developed an application with three main functional sections:
 
 The application provides an accessible platform for exploring crime trends and supporting data-driven decision-making.
 
-[Live Application](https://crime-app-analysis.streamlit.app/)
+---
 
 ## Key Findings
 
@@ -94,18 +92,17 @@ Successfully deployed the selected LightGBM model through Streamlit, integrating
 
 The system allows users to explore crime patterns across 14 Malaysian states and generate predictions for selected future years.
 
+---
 
 ## Project Links
 
-- Dataset: [Food Delivery Apps Reviews on Kaggle](https://www.kaggle.com/datasets/skamlo/food-delivery-apps-reviews)
-- GitHub Source Code: [GitHub Repository](https://github.com/XINnn2/FOOD)
-- Live Streamlit App: [Food Delivery Complaints Apps](https://complaint-system.streamlit.app/)
-- Finding Report: [Report](https://canva.link/78hec0napcbogm4)
+[Dataset from DOSM](https://open.dosm.gov.my/data-catalogue/crime_district) · [Dashboard](https://app.powerbi.com/groups/me/reports/21256a05-96fb-47c6-96d2-b8ff25e272c1/cc5d10f5c9e3f535bbd9?experience=power-bi) · [Live Streamlit Application](https://crime-app-analysis.streamlit.app/)
 
-</br>
-</br>
+---
 
-[Back to Previous Page](../projects.md)
+</div>
+
+[Back to Projects](../projects.md)
 
 
 
