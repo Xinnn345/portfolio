@@ -62,7 +62,7 @@ My technical skills combine data analysis, programming, business intelligence an
   &nbsp;&nbsp;
   <img src="github.jpg" width="70">
    &nbsp;&nbsp;
-  <img src="point.jpeg" width="60">
+  <img src="point.jpeg" width="80">
    &nbsp;&nbsp;
   <img src="canva.jpeg" width="60">
 </p>
