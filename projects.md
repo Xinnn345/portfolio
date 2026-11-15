@@ -7,7 +7,11 @@ Projects
 
 # My Projects
 
-Explore my selected projects showcasing my skills in data analytics, machine learning, natural language processing (NLP), interactive dashboard development, and website design, with a focus on practical, data-driven solutions and creative innovation.
+## Turning Data into Findings, and Findings into Action
+
+I use academic and independent projects to explore real-world questions through data analysis, programming and technology.
+
+My work covers business analytics, SQL, data warehousing, machine learning and data visualization. Each project reflects how I approach a problem, work with data and communicate the results.
 
 ---
 
@@ -28,7 +32,7 @@ Explore my selected projects showcasing my skills in data analytics, machine lea
 - Complaint categorization and risk severity scoring
 - Streamlit dashboard for presenting insights
 
-**Technologies:** Python, Pandas, TensorFlow/Keras, NLTK, Streamlit
+**Tools:** Python, VS Code, Streamlit, Canva
 
 [View Full Case Study](projects/food-delivery-risk.md)
 
@@ -51,7 +55,7 @@ Explore my selected projects showcasing my skills in data analytics, machine lea
 - Comparison of machine learning classifiers
 - Topic modelling to identify discussion themes
 
-**Technologies:** Python, Pandas, Scikit-learn, NLTK
+**Tools:** Python, Microsoft Power Point
 
 [View Full Case Study](projects/generative-ai-sentiment.md)
 
@@ -63,7 +67,7 @@ Explore my selected projects showcasing my skills in data analytics, machine lea
   <img src="crime.png" width="800">
 </p>
 
-![Data Analytics](https://img.shields.io/badge/Data_Analytics-315B7D?style=flat-square)
+![Data Integration](https://img.shields.io/badge/Data_Integration-315B7D?style=flat-square)
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-466A85?style=flat-square)
 ![Predictive Analytics](https://img.shields.io/badge/Predictive_Analytics-789AB5?style=flat-square)
 
@@ -73,7 +77,7 @@ Explore my selected projects showcasing my skills in data analytics, machine lea
 - Interactive Streamlit application and dashboard development
 - Predictive analytics and spatial analysis of crime distribution
 
-**Technologies:** Python, Pandas, LightGBM Model, Streamlit
+**Tools:** PostgreSQL, Python, Power BI, Streamlit
 
 [View Full Case Study](projects/crime-analysis.md)
 
@@ -86,6 +90,8 @@ Explore my selected projects showcasing my skills in data analytics, machine lea
 </p>
 
 ![Data Warehousing](https://img.shields.io/badge/Data_Warehousing-3574A5?style=flat-square)
+![ETL](https://img.shields.io/badge/ETL-789AB5?style=flat-square)
+![Business Intelligence](https://img.shields.io/badge/Business_Intelligence-91AEC4?style=flat-square)
 
 **Key components**
 - Healthcare data preprocessing, cleaning, and ETL pipeline development
@@ -93,7 +99,7 @@ Explore my selected projects showcasing my skills in data analytics, machine lea
 - SQL-based OLAP operations for multidimensional data analysis
 - Interactive Power BI dashboard development and healthcare insights visualization
 
-**Technologies:** Python, Pandas, Google Colab, PostgreSQL, Power BI
+**Tools:** PostgreSQL, Python, Power BI, Canva
 
 [View Full Case Study](projects/healthcare.md)
 
@@ -113,7 +119,7 @@ Explore my selected projects showcasing my skills in data analytics, machine lea
 - User-friendly interface design to simulate real-world pet sanctuary operations
 - Adoption information, donation, volunteer, and communication features
 
-**Technologies:** Google Sites, Google Forms
+**Tools:** Google Sites, Google Forms
 
 [View Full Case Study](projects/paw-track.md)
 
@@ -133,13 +139,13 @@ Explore my selected projects showcasing my skills in data analytics, machine lea
 - Implementation of game elements to communicate sustainable urban planning concepts
 - Team collaboration in developing a competition website
 
-**Technologies:** Scratch, Google Sites
+**Tools:** Scratch, Google Sites
 
 [View Full Case Study](projects/urban-game.md)
 
 ---
 
-</br>
+</div>
 
-[Back to Previous Page](index.md)
+[Back to Home](index.md)
 
